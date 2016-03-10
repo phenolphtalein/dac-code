@@ -1,0 +1,22 @@
+wind farm	59
+wind turbine	32
+GHG emissions	25
+fresh water	24
+electric vehicle	22
+fuel cell	19
+renewable energy	18
+environmental impact	17
+power generation	17
+life cycle	12
+operating conditions	9
+developing world	4
+significantly reduce	3
+improve the performance	3
+reduce costs	2
+performance improvement	2
+electric and hybrid	1
+strain energy	1
+vehicles with electrical	1
+reduced significantly	1
+hybrid electric	1
+world  The development	1

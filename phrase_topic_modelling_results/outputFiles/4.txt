@@ -1,0 +1,61 @@
+reliability analysis	114
+sensitivity analysis	63
+probability of failure	61
+random variables	44
+random field	35
+radial basis function	32
+probabilistic constraints	32
+input variables	29
+proposed method	26
+reliability assessment	26
+probability distributions	22
+reliability index	22
+Analytical Target Cascading	21
+performance function	21
+standard deviation	21
+interval variables	20
+Probable Point	20
+failure modes	20
+system reliability	20
+shock absorber	19
+EDR method	19
+input random variables	19
+confidence level	19
+basis functions	17
+statistical moments	17
+failure probability	16
+numerical examples	15
+dimension reduction	15
+performance measure	15
+accurate and efficient	12
+accuracy and efficiency	10
+system performance	9
+input random	9
+method is proposed	8
+boundary conditions	7
+RBDO problems	6
+method is developed	6
+random input variables	5
+random input	5
+efficient and accurate	5
+efficiency and accuracy	4
+functional basis	4
+variables are only known within intervals	3
+reliable system	3
+proposed method is illustrated	3
+assess the reliability	2
+constraint functions	2
+radial basis	2
+Analytical Target	2
+field  of which randomness	2
+variables  However  if the input	2
+constraints and probabilistic	2
+functional constraints	2
+levels of confidence	2
+developed method	1
+performance of the system	1
+target cascading	1
+variables or random	1
+deviation from its standard	1
+analysis with sensitivity	1
+functional performance	1

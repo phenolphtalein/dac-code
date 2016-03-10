@@ -1,0 +1,41 @@
+case study	156
+complex systems	66
+engineered systems	42
+complex engineered systems	33
+system performance	32
+reverse engineering	31
+dynamic system	25
+mechanical systems	25
+future work	22
+supply chain	22
+test cases	19
+recent years	18
+reconfigurable system	18
+important role	17
+case study involving	17
+case studies are used to demonstrate	16
+operating conditions	15
+demonstrated through a case study	9
+complex engineered	6
+demonstrate the effectiveness	6
+systems engineering	6
+system reconfigurability	6
+system reliability	5
+system  Then  the complexity	5
+study demonstrates	5
+system dynamics	4
+performance of the system	4
+failure modes	3
+evaluate the performance	3
+performance measure	3
+reliable system	2
+performed to evaluate	2
+complex system engineers	2
+engineering systems are too complex	2
+measure of its performance	2
+study the cases	2
+demonstration studies	1
+conditions in VAD operations	1
+effectiveness is demonstrated	1
+systems and mechanisms	1
+study involving	1

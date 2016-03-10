@@ -1,0 +1,86 @@
+product family	182
+product design	156
+product development	90
+product family design	71
+decision making	66
+product platform	62
+design process	45
+design of a product	43
+design decisions	41
+choice model	41
+mass customization	37
+customer preferences	37
+production cost	34
+process planning	30
+product development process	28
+product line	28
+market share	28
+customer requirements	27
+development of product	26
+decision maker	26
+product architecture	25
+developing world	25
+consumer preferences	23
+market segments	22
+decision support	21
+product configuration	21
+family of products	20
+engineering design	20
+make decisions	20
+usage context	19
+manufacturing cost	19
+market demand	19
+product quality	18
+manufacturing process	18
+product variety	18
+conjoint analysis	17
+design team	16
+industrial robot	16
+variety of products	15
+cost  product	15
+discrete choice	13
+reduce costs	13
+design concepts	12
+life cycle	12
+decisions made	11
+powerful tool	11
+address this issue	11
+demand model	11
+family design	11
+mathematical model	9
+collaborative design	8
+process  The design	7
+configurations of products	7
+cost  manufacturability	7
+development process	6
+recently developed	6
+design of a family	6
+designing a product family	5
+design  collaborating	5
+quality and production	5
+design stage	4
+designing a family of products	4
+design engineers	4
+teams  especially between design	3
+decisions  particularly during the design	3
+modeling choice	3
+platforms and new product	3
+issues addressed	2
+concept design	2
+architecture and product	2
+demands of markets	2
+model with each demand	2
+support decision	2
+line of products	2
+stages of the design process	2
+cycle time	1
+segment of the market	1
+requirements from customers	1
+processing and manufacturing	1
+robotics industry	1
+families of products and designing	1
+preferences of the customer	1
+context of the Usage	1
+shares for the  market	1
+analysis  where the conjoint	1
+process has been developed	1

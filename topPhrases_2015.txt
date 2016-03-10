@@ -1,0 +1,10 @@
+case study	27
+proposed method	26
+reliability analysis	25
+optimization problem	24
+paper presents	19
+surrogate model	18
+topology optimization	17
+optimization  topology	2
+presented in this paper	1
+problems  that is  optimization	1

@@ -1,0 +1,253 @@
+paper presents	231
+design optimization	205
+design process	195
+design problem	194
+proposed method	185
+design variables	165
+design space	152
+engineering design	136
+optimization problem	134
+optimal design	127
+genetic algorithm	126
+topology optimization	113
+paper proposes	112
+proposed approach	108
+results show	93
+conceptual design	83
+objective function	77
+robust design	68
+global optimization	60
+paper describes	57
+optimal solutions	54
+proposed methodology	53
+optimization algorithm	53
+design parameters	52
+optimization method	51
+presented in this paper	50
+paper introduces	47
+design engineers	44
+method is developed	43
+demonstrate the effectiveness	43
+paper presents a method	40
+design domain	40
+method is applied	38
+design of experiments	37
+method is proposed	36
+paper discusses	36
+large number	35
+approach is proposed	34
+level set	34
+robust optimization	32
+search algorithm	32
+design alternatives	31
+optimization techniques	31
+method is presented	31
+approach based	31
+paper investigates	30
+topology optimization method	29
+design optimization problems	29
+developed method	28
+genetic algorithm  GA	28
+numerical examples	27
+problem is formulated	27
+problem is solved	27
+previous work	26
+degrees of freedom	26
+proposed framework	25
+design stage	25
+engineering design problems	25
+utility function	25
+paper focuses	25
+evolutionary algorithms	24
+global optimum	23
+early stages	23
+space exploration	22
+solve the problem	22
+multidisciplinary design optimization	21
+approach is demonstrated	21
+Pareto frontier	21
+search space	21
+function evaluations	20
+proposed algorithm	20
+particle swarm optimization	20
+robust design optimization	19
+process  The design	19
+method is demonstrated	19
+results obtained	19
+taking into account	19
+optimum solutions	19
+presents a method	19
+based approach	18
+problem of designing	18
+optimization problem is solved	18
+examples are presented	18
+optimization procedure	18
+improve the performance	18
+benchmark problems	18
+proposed in this paper	18
+systematic approach	18
+multiple objectives	17
+design concepts	17
+automated design	17
+reduce the number	17
+improve the efficiency	16
+work presents	16
+approach is presented	16
+multiobjective optimization	15
+presented to demonstrate	15
+deterministic optimization	15
+significantly reduce	15
+present work	15
+focus of this paper	14
+concept generation	14
+Pareto optimal	14
+objective and constraint functions	14
+evaluate the performance	13
+collaborative design	13
+practical engineering	13
+results are compared	13
+compared with results	13
+demonstrated by three examples	13
+algorithm is proposed	13
+design automation	13
+solutions obtained	12
+demonstrate the applicability	12
+discussed in this paper	12
+effectiveness of the proposed method	12
+methodology is presented	12
+explore the design space	12
+effectiveness of the proposed	11
+demonstrate the method	11
+performance function	11
+performed to evaluate	11
+design space exploration	11
+optimization formulation	11
+recently developed	11
+optimal topologies	11
+examples demonstrate	11
+optimization problem is formulated	11
+method for optimally	11
+presents an approach	10
+framework is proposed	10
+performance measure	10
+pattern search	10
+design team	10
+early design stage	10
+significant improvement	9
+space to the design	9
+introduced in this paper	9
+objective and constraint	9
+early stages of design	9
+alternative designs	9
+RBDO problems	9
+methodology is proposed	9
+trade space	8
+stages of the design	8
+illustrate the proposed method	8
+study presents	8
+problem  The optimization	8
+demonstrate the approach	8
+present study	8
+design  the conceptual	8
+demonstrate the proposed	8
+solving the optimization problem	7
+variable design	7
+algorithm  In this way the optimal	7
+solutions  The optimization	7
+design and robust	7
+methodology is demonstrated	7
+based topology	7
+presents a methodology	7
+parameters of a design	6
+demonstrate the methodology	6
+obtained results	6
+performance improvement	6
+applied our method	6
+case study	6
+stages of the design process	6
+functional performance	5
+method presented in this paper	5
+design decisions	5
+optimal design problem	5
+proposed method is illustrated	5
+domains of the design	5
+concept design	5
+particle swarm	5
+development process	5
+proposed method s effectiveness	5
+objective functions and constraints	5
+obtained solutions	5
+multidisciplinary design	5
+shows that the results	4
+algorithms  such as genetic	4
+design are at an early stage	4
+techniques  However  these optimization	4
+functional constraints	4
+formulated optimization	4
+product design	4
+constraint functions	4
+design problem as an optimization	4
+process has been developed	4
+robust optimal design	3
+engineering practice	3
+design optimization  RBDO	3
+study demonstrates	3
+formulate this as an optimization problem	3
+formulating the problem	3
+method is useful for the topology optimization	3
+functional basis	3
+investigated  The paper	2
+proposes an effective	2
+constraint functions and objective	2
+problem of designing the IC engine	2
+generate a concept	2
+design  collaborating	2
+address this issue	2
+optimization problem and in design	2
+demonstrate the effectiveness of the proposed	2
+optimal  Furthermore  there is no robust design	2
+efficiency improvement	2
+applications are used to demonstrate	2
+experiments in a  design	2
+effectiveness is demonstrated	2
+functional objectives	2
+problem in engineering design	1
+issues addressed	1
+case study involving	1
+dimension reduction	1
+improved significantly	1
+methods  This paper presents	1
+space exploration  particularly for the design	1
+optimal  Furthermore  there is no robust	1
+constraints and or objective functions	1
+study involving	1
+decisions made	1
+product development	1
+algorithm  GA	1
+algorithm in evolutionary	1
+paper  a new method is presented	1
+work previously	1
+case studies are used to demonstrate	1
+algorithm to search	1
+presented  Associated examples	1
+teams  especially between design	1
+complex engineered	1
+development of product	1
+basis functions	1
+problem under the optimal design	1
+proposed  One example is used to demonstrate	1
+spaces are searched	1
+problems  RBDO	1
+demonstrated by presenting	1
+design robust optimization	1
+design of a product	1
+optimization and Pareto	1
+design problem so that engineers	1
+optimized both deterministically	1
+procedure to optimize	1
+reduced significantly	1
+evaluate the functional	1
+design of many engineering problems	1
+approach is systematically	1
+optimization from a global	1
+functions in utility	1

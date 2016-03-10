@@ -1,0 +1,240 @@
+{
+    "DETC": "DETC2015-46236", 
+    "Cited by": [
+        {
+            "url": "http://www.sciencedirect.com/science/article/pii/S0736584516300187", 
+            "citation": "Kim, Kyoung-Yun, Junheung Park, and Raj Sohmshetty. \"Prediction measurement with mean acceptable error for proper inconsistency in noisy weldability prediction data.\" Robotics and Computer-Integrated Manufacturing (2016).", 
+            "link": "", 
+            "title": "Prediction measurement with mean acceptable error for proper inconsistency in noisy weldability prediction data"
+        }
+    ], 
+    "Title": "A Prediction Modeling Framework: Toward Integration of Noisy Manufacturing Data and Product Design"
+},
+{
+    "DETC": "DETC2015-46761", 
+    "Cited by": [
+        {
+            "url": "", 
+            "citation": "Königseder, Corinna, and Kristina Shea. \"Comparing Strategies for Topologic and Parametric Rule Application in Automated Computational Design Synthesis.\" Journal of Mechanical Design 138.1 (2016): 011102.", 
+            "link": "", 
+            "title": "Comparing Strategies for Topologic and Parametric Rule Application in Automated Computational Design Synthesis"
+        }, 
+        {
+            "url": "https://www.designsociety.org/publication/38596/a_methodology_for_supporting_design_grammar_development_and_application_in_computational_design_synthesis", 
+            "citation": "Königseder, Corinna. A methodology for supporting design grammar development and application in computational design synthesis. Diss. ETH Zurich, Switzerland, 2015.", 
+            "link": "http://e-collection.library.ethz.ch/eserv/eth:48377/eth-48377-02.pdf?pid=eth:48377&dsID=eth-48377-02.pdf", 
+            "title": "A methodology for supporting design grammar development and application in computational design synthesis"
+        }
+    ], 
+    "Title": "A Method for Visualizing the Relations Between Grammar Rules, Performance Objectives and Search Space Exploration in Grammar-Based Computational Design Synthesis"
+},
+{
+    "DETC": "DETC2015-46875", 
+    "Cited by": [
+        {
+            "url": "https://www.ideals.illinois.edu/handle/2142/78365", 
+            "citation": "Ma, Jung Mok. Predictive design analytics for optimal system design. Diss. University of Illinois at Urbana-Champaign, 2015.", 
+            "link": "https://www.ideals.illinois.edu/bitstream/handle/2142/78365/MA-DISSERTATION-2015.pdf?sequence=1", 
+            "title": "Predictive design analytics for optimal system design"
+        }
+    ], 
+    "Title": "Predictive Modeling of Product Returns for Remanufacturing"
+},
+{
+    "DETC": "DETC2015-46457", 
+    "Cited by": [
+        {
+            "url": "http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2483885", 
+            "citation": "Smith, Warren F., et al. \"The Realization of Engineered Systems With Considerations of Complexity.\" ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. American Society of Mechanical Engineers, 2015.", 
+            "link": "", 
+            "title": "The Realization of Engineered Systems With Considerations of Complexity"
+        }
+    ], 
+    "Title": "Solution Space Exploration in Model-Based Realization of Engineered Systems"
+},
+{
+    "DETC": "DETC2015-46864", 
+    "Cited by": [
+        {
+            "url": "https://mechanicaldesign.asmedigitalcollection.asme.org/article.aspx?articleid=2470816", 
+            "citation": "Sabbaghi, Mostafa, et al. \"Reusability Assessment of Lithium-Ion Laptop Batteries Based on Consumers Actual Usage Behavior.\" Journal of Mechanical Design 137.12 (2015): 124501.", 
+            "link": "https://www.researchgate.net/profile/Mostafa_Sabbaghi/publication/282430414_Reusability_Assessment_of_Lithium-ion_Laptop_Batteries_Based_on_Consumers_Actual_Usage_Behavior/links/5625011308aed8dd19495819.pdf", 
+            "title": "Reusability Assessment of Lithium-Ion Laptop Batteries Based on Consumers Actual Usage Behavior"
+        }
+    ], 
+    "Title": "Modeling Consumer Decisions on Returning End-of-Use Products Considering Design Features and Consumer Interactions: An Agent Based Simulation Approach"
+},
+{
+    "DETC": "DETC2015-46849", 
+    "Cited by": [
+        {
+            "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7293686", 
+            "citation": "Cui, Mingjian, et al. \"An Optimized Swinging Door Algorithm for Identifying Wind Ramping Events.\" Sustainable Energy, IEEE Transactions on 7.1 (2016): 150-162.", 
+            "link": "http://www.utdallas.edu/%7Ejiezhang/Journals/JIE_2016_IEEE_TSTE_OpSDA.pdf", 
+            "title": "An Optimized Swinging Door Algorithm for Identifying Wind Ramping Events"
+        }
+    ], 
+    "Title": "Solar Power Ramp Events Detection Using an Optimized Swinging Door Algorithm"
+},
+{
+    "DETC": "DETC2015-46964", 
+    "Cited by": [
+        {
+            "url": "http://www.sciencedirect.com/science/article/pii/S0927025616300489", 
+            "citation": "Shandiz, M. Attarian, and R. Gauvin. \"Application of machine learning methods for the prediction of crystal system of cathode materials in lithium-ion batteries.\" Computational Materials Science 117 (2016): 270-278.", 
+            "link": "", 
+            "title": "Application of machine learning methods for the prediction of crystal system of cathode materials in lithium-ion batteries"
+        }, 
+        {
+            "url": "http://www.mdpi.com/1996-1073/8/11/12320/htm", 
+            "citation": "Zhang, Yang, and Bo Guo. \"Online Capacity Estimation of Lithium-Ion Batteries Based on Novel Feature Extraction and Adaptive Multi-Kernel Relevance Vector Machine.\" Energies 8.11 (2015): 12439-12457.", 
+            "link": "http://www.mdpi.com/1996-1073/8/11/12320/htm", 
+            "title": "Online Capacity Estimation of Lithium-Ion Batteries Based on Novel Feature Extraction and Adaptive Multi-Kernel Relevance Vector Machine"
+        }
+    ], 
+    "Title": "Online Estimation of Lithium-Ion Battery Capacity Using Sparse Bayesian Learning"
+},
+{
+    "DETC": "DETC2015-46107", 
+    "Cited by": [
+        {
+            "url": "http://prod.sandia.gov/techlib/access-control.cgi/2015/158067.pdf", 
+            "citation": "Backlund, Peter, and John P. Eddy. Classifier-Guided Sampling for Complex Energy System Optimization. No. SAND2015-8067. Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States), 2015.", 
+            "link": "http://prod.sandia.gov/techlib/access-control.cgi/2015/158067.pdf", 
+            "title": "Classifier-Guided Sampling for Complex Energy System Optimization."
+        }
+    ], 
+    "Title": "Autonomous Microgrid Design Using Classifier-Guided Sampling"
+},
+{
+    "DETC": "DETC2015-46265", 
+    "Cited by": [
+        {
+            "url": "https://books.google.com/books?hl=en&lr=&id=siJECQAAQBAJ&oi=fnd&pg=PA315&ots=Imnr0u3vLS&sig=xGQEv6uIyr-ElI3Gk7JUjQTli5M", 
+            "citation": "Shukla, Rishabh, et al. \"A Method for Determining the Set Points of the Ladle, Tundish and Caster for Manufacturing a High Strength Steel Slab.\" Proceedings of the 3rd World Congress on Integrated Computational Materials Engineering (ICME). John Wiley & Sons, 2015.", 
+            "link": "https://www.researchgate.net/profile/Rishabh_Shukla2/publication/279780458_A_Method_for_Determining_the_Set_Points_of_the_Ladle_Tundish_and_Caster_for_Manufacturing_a_High_Strength_Steel_Slab/links/559d408b08aeb45d1715b5ea.pdf", 
+            "title": "A Method for Determining the Set Points of the Ladle, Tundish and Caster for Manufacturing a High Strength Steel Slab"
+        }
+    ], 
+    "Title": "Exploring the Design Set Points of Refining Operation in Ladle for Cost Effective Desulfurization and Inclusion Removal"
+},
+{
+    "DETC": "DETC2015-47757", 
+    "Cited by": [
+        {
+            "url": "http://tigerprints.clemson.edu/all_theses/2245/", 
+            "citation": "Satterfield, Zachary. \"Design of a Meta-Material with Targeted Nonlinear Deformation Response.\" (2015).", 
+            "link": "http://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3250&context=all_theses", 
+            "title": "Design of a Meta-Material with Targeted Nonlinear Deformation Response"
+        }
+    ], 
+    "Title": "Topology Optimization of Cellular Materials With Maximized Energy Absorption"
+},
+{
+    "DETC": "DETC2015-46832", 
+    "Cited by": [
+        {
+            "url": "https://www.ideals.illinois.edu/handle/2142/78561", 
+            "citation": "SCHUH, JONATHON K. Surface textures and non-Newtonian fluids for decreased friction in full film lubrication. Diss. University of Illinois at Urbana-Champaign, 2015.", 
+            "link": "https://www.ideals.illinois.edu/bitstream/handle/2142/78561/SCHUH-THESIS-2015.pdf?sequence=1", 
+            "title": "Surface textures and non-Newtonian fluids for decreased friction in full film lubrication"
+        }, 
+        {
+            "url": "https://www.ideals.illinois.edu/handle/2142/78504", 
+            "citation": "Gururaja Rao, Lakshmi. \"Design and optimization of computationally expensive engineering systems.\" (2015).", 
+            "link": "https://www.ideals.illinois.edu/bitstream/handle/2142/78504/GURURAJARAO-THESIS-2015.pdf?sequence=1", 
+            "title": "Design and optimization of computationally expensive engineering systems"
+        }
+    ], 
+    "Title": "On Using Adaptive Surrogate Modeling in Design for Efficient Fluid Power"
+},
+{
+    "DETC": "DETC2015-47188", 
+    "Cited by": [
+        {
+            "url": "http://www.alimehmani.com/PAPERS%5CWCSMO2015a.pdf", 
+            "citation": "Mehmani, Ali, et al. \"Surrogate-based Particle Swarm Optimization for Large-scale Wind Farm Layout Design.\"", 
+            "link": "http://www.alimehmani.com/PAPERS%5CWCSMO2015a.pdf", 
+            "title": "Surrogate-based Particle Swarm Optimization for Large-scale Wind Farm Layout Design"
+        }
+    ], 
+    "Title": "Variable-Fidelity Optimization With In-Situ Surrogate Model Refinement"
+},
+{
+    "DETC": "DETC2015-47689", 
+    "Cited by": [
+        {
+            "url": "http://arc.aiaa.org/doi/pdf/10.2514/6.2016-1195", 
+            "citation": "Fernández–Godino, M. Giselle, et al. \"Anomaly Detection Using Groups of Simulations.\" 18th AIAA Non-Deterministic Approaches Conference. 2016.", 
+            "link": "", 
+            "title": "Anomaly Detection Using Groups of Simulations"
+        }, 
+        {
+            "url": "http://arc.aiaa.org/doi/pdf/10.2514/6.2016-2144", 
+            "citation": "Zhang, Yiming, et al. \"Function Extrapolation of Noisy Data using Converging Lines.\" AIAA Modeling and Simulation Technologies Conference. 2016.", 
+            "link": "", 
+            "title": "Function Extrapolation of Noisy Data using Converging Lines"
+        }
+    ], 
+    "Title": "Function Extrapolation at One Inaccessible Point Using Converging Lines"
+},
+{
+    "DETC": "DETC2015-46895", 
+    "Cited by": [
+        {
+            "url": "http://link.springer.com/article/10.1007/s00158-015-1389-7", 
+            "citation": "Unal, Mehmet, Gordon P. Warn, and Timothy W. Simpson. \"Quantifying tradeoffs to reduce the dimensionality of complex design optimization problems and expedite trade space exploration.\" Structural and Multidisciplinary Optimization (2016): 1-16.", 
+            "link": "http://scholar.google.com/scholar?output=instlink&nossl=1&q=info:UUrgw8_9PPcJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14&scillfp=3758554482375254373&oi=lle", 
+            "title": "Quantifying tradeoffs to reduce the dimensionality of complex design optimization problems and expedite trade space exploration"
+        }
+    ], 
+    "Title": "Introduction of a Tradeoff Index for Efficient Trade Space Exploration"
+},
+{
+    "DETC": "DETC2015-46130", 
+    "Cited by": [
+        {
+            "url": "http://www.aeromech.usyd.edu.au/WCSMO2015/papers/1211_paper.pdf", 
+            "citation": "Lin, Po Ting. \"Utilization of Gaussian Kernel Reliability Analyses in the Gradient-based Transformed Space for Design Optimization with Arbitrarily Distributed Design Uncertainties.\" 11th World Congress of Structural and Multidisciplinary Optimization, WCSMO-11, Sydney, Australia. No. 1211. 2015.", 
+            "link": "http://www.aeromech.usyd.edu.au/WCSMO2015/papers/1211_paper.pdf", 
+            "title": "Utilization of Gaussian Kernel Reliability Analyses in the Gradient-based Transformed Space for Design Optimization with Arbitrarily Distributed Design  …"
+        }
+    ], 
+    "Title": "Reliability-Based Design Optimization in X-Space Using Ensemble of Gaussian Reliability Analyses (EoGRA)"
+},
+{
+    "DETC": "DETC2015-47359", 
+    "Cited by": [
+        {
+            "url": "http://ir.uiowa.edu/etd/1854/", 
+            "citation": "Hu, Weifei. \"Reliability-based design optimization of composite wind turbine blades for fatigue life under wind load uncertainty.\" (2015).", 
+            "link": "http://ir.uiowa.edu/cgi/viewcontent.cgi?article=5911&context=etd", 
+            "title": "Reliability-based design optimization of composite wind turbine blades for fatigue life under wind load uncertainty"
+        }
+    ], 
+    "Title": "Design Sensitivity Method for Sampling-Based RBDO With Fixed COV"
+},
+{
+    "DETC": "DETC2015-47925", 
+    "Cited by": [
+        {
+            "url": "https://www.phmsociety.org/sites/phmsociety.org/files/phm_submission/2015/phmc_15_022.pdf", 
+            "citation": "Aizpurua, Jose Ignacio, and Victoria M. Catterson. \"Towards a Methodology for Design of Prognostic Systems.\" Annual Conference of the Prognostics and Health Management Society, Coronado, California, USA. 2015.", 
+            "link": "https://www.phmsociety.org/sites/phmsociety.org/files/phm_submission/2015/phmc_15_022.pdf", 
+            "title": "Towards a Methodology for Design of Prognostic Systems"
+        }, 
+        {
+            "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7361101", 
+            "citation": "Catterson, V. M., J. Melone, and M. Segovia Garcia. \"Prognostics of transformer paper insulation using statistical particle filtering of on-line data.\" Electrical Insulation Magazine, IEEE 32.1 (2016): 28-33.", 
+            "link": "http://scholar.google.com/scholar?output=instlink&nossl=1&q=info:xGCwMzqWyZEJ:scholar.google.com/&hl=en&as_sdt=400005&sciodt=0,14&scillfp=6156832435207429393&oi=lle", 
+            "title": "Prognostics of transformer paper insulation using statistical particle filtering of on-line data"
+        }, 
+        {
+            "url": "http://www.sciencedirect.com/science/article/pii/S0951832015003403", 
+            "citation": "Li, Chenzhao, and Sankaran Mahadevan. \"Role of calibration, validation, and relevance in multi-level uncertainty integration.\" Reliability Engineering & System Safety 148 (2016): 32-43.", 
+            "link": "http://www.sciencedirect.com/science/article/pii/S0951832015003403", 
+            "title": "Role of calibration, validation, and relevance in multi-level uncertainty integration"
+        }
+    ], 
+    "Title": "Uncertainty Quantification in Time-Dependent Reliability Analysis"
+},

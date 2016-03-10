@@ -1,0 +1,17 @@
+machine tool	40
+solid models	31
+CAD model	26
+freeform feature	23
+data sets	22
+data mining	19
+concept generation	13
+powerful tool	10
+tooling machine	4
+power generation	2
+model for a computer	2
+model  CAD	2
+computer model	2
+validation model	1
+computational time	1
+generate a concept	1
+set of data	1
