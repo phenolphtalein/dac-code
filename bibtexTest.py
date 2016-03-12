@@ -9,6 +9,7 @@ import sys
 import json
 import time
 import random
+import socket
 from termcolor import colored
 import re
 import os
@@ -31,8 +32,9 @@ opener = None
 robot = False
 url_base = 'https://scholar.google.com'
 driver = None
+prev_ip = ''
 
-user_agent = ['Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36',
+user_agent = ['Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36',
 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201','Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko',
 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A']
 
@@ -94,6 +96,9 @@ def search_citation(title):
     cj = cookielib.LWPCookieJar()
     handler = ul.HTTPCookieProcessor(cj)
     opener = ul.build_opener(handler, ul.HTTPHandler())
+    #proxy = ul.ProxyHandler({'http': '142.1.97.147:80'})
+    #opener = ul.build_opener(proxy)
+    #ul.install_opener(opener)
   header = {'user-agent': user_agent[random.randint(0,len(user_agent)-1)],'method':'GET','referer':'https://scholar.google.com'}
   try:
     req = ul.Request(search_url, headers = header)
@@ -105,7 +110,7 @@ def search_citation(title):
       print colored('*****robot*****', 'red')
     ptline()
     return None
-  if 'not a robot' in res:
+  if 'Please show you\'re not a robot' in res:
     robot = True
     print colored('*****robot*****', 'red')
     ptline()
@@ -116,11 +121,12 @@ def search_citation(title):
     # search result for title
     search_res = dom.find_all(attrs={'class':'gs_r'})
     if len(search_res) == 0:
-      if 'No pages were found' not in res:
+      if ('No pages were found' not in res) and ('did not match any articles' not in res):
         robot = True
         ptline()
         return None
       # paper not found
+      print colored('Paper not found: {}'.format(title),'magenta')
       return False
     gsr = search_res[0]
     title_elem = gsr.find_all(lambda x: x.name == 'h3' and x.get('class') == ['gs_rt'])[0]
@@ -202,12 +208,18 @@ def get_tex(title):
 def reconnect():
   global driver
   global robot
+  global prev_ip
   robot = False
   if driver:
     driver.quit()
     driver = None
-  os.system('/opt/cisco/anyconnect/bin/vpn -s disconnect')
-  os.system('echo "2\n{}\n{}\n" | /opt/cisco/anyconnect/bin/vpn -s connect vpn.cites.illinois.edu'.format(sys.argv[3], sys.argv[4]))
+  new_ip = prev_ip
+  while new_ip == prev_ip:
+    os.system('/opt/cisco/anyconnect/bin/vpn -s disconnect > /dev/null 2>&1')
+    os.system('echo "2\n{}\n{}\n" | /opt/cisco/anyconnect/bin/vpn -s connect vpn.cites.illinois.edu > /dev/null 2>&1'.format(sys.argv[3], sys.argv[4]))
+    new_ip = [(s.connect(('8.8.8.8', 53)), s.getsockname()[0], s.close()) for s in [socket.socket(socket.AF_INET, socket.SOCK_DGRAM)]][0][1]
+  prev_ip = new_ip
+  print colored(new_ip,'cyan')
   #time.sleep(random.randint(5,10))
   time.sleep(1)
   if not driver:
