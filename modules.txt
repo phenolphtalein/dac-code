@@ -1,8 +1,0 @@
-
-
-
-bs4
-selenium 
-bibtexparser
-
-pyvirtualdisplay
