@@ -1,0 +1,5272 @@
+{
+ "institutions": [
+  [
+   "DTIC Document", 
+   19
+  ], 
+  [
+   "The Pennsylvania State University", 
+   17
+  ], 
+  [
+   "The University of Michigan", 
+   14
+  ], 
+  [
+   "SAE Technical Paper", 
+   13
+  ], 
+  [
+   "Arizona State University", 
+   12
+  ], 
+  [
+   "University of Illinois at Urbana-Champaign", 
+   11
+  ], 
+  [
+   "Massachusetts Institute of Technology", 
+   7
+  ], 
+  [
+   "University of Toronto", 
+   7
+  ], 
+  [
+   "The Ohio State University", 
+   4
+  ], 
+  [
+   "Rutgers University-Graduate School-New Brunswick", 
+   4
+  ], 
+  [
+   "Iowa State University", 
+   4
+  ], 
+  [
+   "University of Florida", 
+   3
+  ], 
+  [
+   "University of California-Berkeley", 
+   3
+  ], 
+  [
+   "Ch{\\^a}tenay-Malabry, Ecole centrale de Paris", 
+   3
+  ], 
+  [
+   "Citeseer", 
+   3
+  ], 
+  [
+   "University of Notre Dame", 
+   2
+  ], 
+  [
+   "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)", 
+   2
+  ], 
+  [
+   "Universit{\\'e} de Lorraine", 
+   2
+  ], 
+  [
+   "Vanderbilt University", 
+   2
+  ], 
+  [
+   "University of Bath", 
+   2
+  ], 
+  [
+   "Lean Advancement Initiative", 
+   2
+  ], 
+  [
+   "Wright State University", 
+   2
+  ], 
+  [
+   "Case Western Reserve University", 
+   2
+  ], 
+  [
+   "The University of Toledo", 
+   2
+  ], 
+  [
+   "Arts et M{\\'e}tiers ParisTech", 
+   1
+  ], 
+  [
+   "Tech. rep. KanGAL report", 
+   1
+  ], 
+  [
+   "Universit{\\`a} Politecnica delle Marche", 
+   1
+  ], 
+  [
+   "University of Michigan", 
+   1
+  ], 
+  [
+   "G-SCOP-Laboratoire des sciences pour la conception, l'optimisation et la production", 
+   1
+  ], 
+  [
+   "Aeronauticos", 
+   1
+  ], 
+  [
+   "Universit{\\'e} de Floride", 
+   1
+  ], 
+  [
+   "PhD thesis, Grenoble University", 
+   1
+  ], 
+  [
+   "University of Cambridge", 
+   1
+  ], 
+  [
+   "Texas A\\&M University", 
+   1
+  ], 
+  [
+   "Queen Mary University of London", 
+   1
+  ], 
+  [
+   "INSA de Lyon", 
+   1
+  ], 
+  [
+   "ETH Zurich, Switzerland", 
+   1
+  ], 
+  [
+   "Doctoral Dissertation, University of Debrecen", 
+   1
+  ], 
+  [
+   "Universit{\\'e} de Grenoble", 
+   1
+  ], 
+  [
+   "University of Calgary", 
+   1
+  ], 
+  [
+   "Technische Universit{\\\"a}t M{\\\"u}nchen", 
+   1
+  ], 
+  [
+   "Idaho National Laboratory (INL)", 
+   1
+  ], 
+  [
+   "PhD thesis, Universit{\\\"a}t der Bundeswehr M{\\\"u}nchen, Fakult{\\\"a}t f{\\\"u}r Luft-und Raumfahrttechnik, Neubiberg. http://​ nbn-resolving.​ de/​ urn/​ resolver.​ pl", 
+   1
+  ], 
+  [
+   "Carnegie Mellon University Pittsburgh", 
+   1
+  ], 
+  [
+   "University of Southampton", 
+   1
+  ], 
+  [
+   "University of Manitoba", 
+   1
+  ], 
+  [
+   "Paris, ENSAM", 
+   1
+  ], 
+  [
+   "University of Leeds", 
+   1
+  ], 
+  [
+   "Tech. Rep. KanGAL Report", 
+   1
+  ], 
+  [
+   "UNIVERSITY OF MINNESOTA", 
+   1
+  ], 
+  [
+   "{\\copyright} Setia Hermawati", 
+   1
+  ], 
+  [
+   "Hochschulbibliothek der Rheinisch-Westf{\\\"a}lischen Technischen Hochschule Aachen", 
+   1
+  ], 
+  [
+   "Applied Sciences:", 
+   1
+  ], 
+  [
+   "University of Cincinnati", 
+   1
+  ], 
+  [
+   "Ohio University", 
+   1
+  ], 
+  [
+   "Washington State University", 
+   1
+  ], 
+  [
+   "University of St Andrews", 
+   1
+  ], 
+  [
+   "Ecully, Ecole centrale de Lyon", 
+   1
+  ]
+ ], 
+ "journals": [
+  [
+   "Journal of Mechanical Design", 
+   326
+  ], 
+  [
+   "Structural and Multidisciplinary Optimization", 
+   108
+  ], 
+  [
+   "Engineering Optimization", 
+   40
+  ], 
+  [
+   "Journal of Computing and Information Science in Engineering", 
+   30
+  ], 
+  [
+   "SAE International Journal of Materials \\& Manufacturing", 
+   18
+  ], 
+  [
+   "Artificial Intelligence for Engineering Design, Analysis and Manufacturing", 
+   18
+  ], 
+  [
+   "Journal of Engineering Design", 
+   17
+  ], 
+  [
+   "Computer Methods in Applied Mechanics and Engineering", 
+   17
+  ], 
+  [
+   "Research in Engineering Design", 
+   15
+  ], 
+  [
+   "Renewable Energy", 
+   15
+  ], 
+  [
+   "Reliability Engineering \\& System Safety", 
+   14
+  ], 
+  [
+   "Computer-Aided Design", 
+   14
+  ], 
+  [
+   "Renewable and Sustainable Energy Reviews", 
+   10
+  ], 
+  [
+   "AIAA journal", 
+   10
+  ], 
+  [
+   "Mathematical Problems in Engineering", 
+   10
+  ], 
+  [
+   "Advances in Mechanical Engineering", 
+   10
+  ], 
+  [
+   "Energies", 
+   8
+  ], 
+  [
+   "International Journal for Numerical Methods in Engineering", 
+   7
+  ], 
+  [
+   "International Journal on Interactive Design and Manufacturing (IJIDeM)", 
+   7
+  ], 
+  [
+   "Computer-Aided Design and Applications", 
+   7
+  ], 
+  [
+   "Concurrent Engineering", 
+   7
+  ], 
+  [
+   "International Journal of Industrial Ergonomics", 
+   7
+  ], 
+  [
+   "Computers \\& Structures", 
+   7
+  ], 
+  [
+   "The International Journal of Advanced Manufacturing Technology", 
+   6
+  ], 
+  [
+   "Procedia CIRP", 
+   6
+  ], 
+  [
+   "Energy Conversion and Management", 
+   6
+  ], 
+  [
+   "Journal of Intelligent Manufacturing", 
+   6
+  ], 
+  [
+   "Journal of mechanical design", 
+   6
+  ], 
+  [
+   "International Journal of Production Economics", 
+   6
+  ], 
+  [
+   "Ergonomics", 
+   6
+  ], 
+  [
+   "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science", 
+   5
+  ], 
+  [
+   "Procedia Computer Science", 
+   5
+  ], 
+  [
+   "Journal of Energy Resources Technology", 
+   5
+  ], 
+  [
+   "Advances in Engineering Software", 
+   5
+  ], 
+  [
+   "Advanced Engineering Informatics", 
+   5
+  ], 
+  [
+   "International Journal of Production Research", 
+   5
+  ], 
+  [
+   "Systems Engineering", 
+   4
+  ], 
+  [
+   "计算机集成制造系统", 
+   4
+  ], 
+  [
+   "Sustainable Energy, IEEE Transactions on", 
+   4
+  ], 
+  [
+   "Energy Policy", 
+   4
+  ], 
+  [
+   "Expert Systems with Applications", 
+   4
+  ], 
+  [
+   "机械工程学报", 
+   4
+  ], 
+  [
+   "Structural Safety", 
+   4
+  ], 
+  [
+   "Computers in Industry", 
+   4
+  ], 
+  [
+   "Computers \\& Industrial Engineering", 
+   4
+  ], 
+  [
+   "Assembly Automation", 
+   3
+  ], 
+  [
+   "International Journal of Precision Engineering and Manufacturing", 
+   3
+  ], 
+  [
+   "Journal of Wind Engineering and Industrial Aerodynamics", 
+   3
+  ], 
+  [
+   "International Journal of Heat and Mass Transfer", 
+   3
+  ], 
+  [
+   "Engineering With Computers", 
+   3
+  ], 
+  [
+   "Journal of Manufacturing Science and Engineering", 
+   3
+  ], 
+  [
+   "Engineering Applications of Artificial Intelligence", 
+   3
+  ], 
+  [
+   "Desalination", 
+   3
+  ], 
+  [
+   "Design studies", 
+   3
+  ], 
+  [
+   "Computational Materials Science", 
+   3
+  ], 
+  [
+   "International Journal of Powertrains", 
+   3
+  ], 
+  [
+   "Ocean Engineering", 
+   3
+  ], 
+  [
+   "AIAA Journal", 
+   3
+  ], 
+  [
+   "日本機械学会論文集 C 編", 
+   3
+  ], 
+  [
+   "Journal of Mechanical Science and Technology", 
+   3
+  ], 
+  [
+   "Journal of Zhejiang University SCIENCE A", 
+   3
+  ], 
+  [
+   "汽车安全与节能学报", 
+   3
+  ], 
+  [
+   "Probabilistic engineering analysis and design under time-dependent uncertainty", 
+   3
+  ], 
+  [
+   "Journal of Cleaner Production", 
+   3
+  ], 
+  [
+   "Journal of the South Carolina Academy of Science", 
+   3
+  ], 
+  [
+   "International Journal of Product Development", 
+   3
+  ], 
+  [
+   "力学学报", 
+   3
+  ], 
+  [
+   "Mechatronics", 
+   3
+  ], 
+  [
+   "Tire Science and Technology", 
+   3
+  ], 
+  [
+   "Smart Materials and Structures", 
+   3
+  ], 
+  [
+   "Journal of Micro and Nano-Manufacturing", 
+   3
+  ], 
+  [
+   "Industrial Management \\& Data Systems", 
+   3
+  ], 
+  [
+   "Journal of Engineering Materials and Technology", 
+   2
+  ], 
+  [
+   "arXiv preprint arXiv:1208.2434", 
+   2
+  ], 
+  [
+   "Journal of Mechanical Design,(Under review), http://web. me. iastate. edu/erinmacd/Accessories/Journal\\% 20Pu blications/Sustainability,\\% 20Preference,\\% 20and\\% 20Profitabili ty\\% 20in\\% 20Design\\% 20Optimization\\_JMD\\% 20Submission. pd f, Accessed", 
+   2
+  ], 
+  [
+   "DETECTING AND STRUCTURING REQUIREMENTS FOR THE DEVELOPMENT OF PRODUCT-SERVICE SYSTEMS", 
+   2
+  ], 
+  [
+   "Strojni{\\v{s}}ki vestnik-Journal of Mechanical Engineering", 
+   2
+  ], 
+  [
+   "Soft Robot.(unpublished)", 
+   2
+  ], 
+  [
+   "International Journal of Design Creativity and Innovation", 
+   2
+  ], 
+  [
+   "Computational Mechanics", 
+   2
+  ], 
+  [
+   "Composites Science and Technology", 
+   2
+  ], 
+  [
+   "International Journal of Clothing Science and Technology", 
+   2
+  ], 
+  [
+   "SAE Int. J. Mater. Manuf", 
+   2
+  ], 
+  [
+   "Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering", 
+   2
+  ], 
+  [
+   "COMPEL: The International Journal for Computation and Mathematics in Electrical and Electronic Engineering", 
+   2
+  ], 
+  [
+   "Transportation Research Part A: Policy and Practice", 
+   2
+  ], 
+  [
+   "Mechatronics, IEEE/ASME Transactions on", 
+   2
+  ], 
+  [
+   "计算机技术与发展", 
+   2
+  ], 
+  [
+   "International Journal of Crashworthiness", 
+   2
+  ], 
+  [
+   "Information Sciences", 
+   2
+  ], 
+  [
+   "ECS Transactions", 
+   2
+  ], 
+  [
+   "SIAM Journal on Scientific Computing", 
+   2
+  ], 
+  [
+   "VINE", 
+   2
+  ], 
+  [
+   "Journal of mechanical science and technology", 
+   2
+  ], 
+  [
+   "International Journal of Shape Modeling", 
+   2
+  ], 
+  [
+   "Robotics and Computer-Integrated Manufacturing", 
+   2
+  ], 
+  [
+   "Structural and multidisciplinary optimization", 
+   2
+  ], 
+  [
+   "CIRP Journal of Manufacturing Science and Technology", 
+   2
+  ], 
+  [
+   "International Journal of Cast Metals Research", 
+   2
+  ], 
+  [
+   "Composite Structures", 
+   2
+  ], 
+  [
+   "Journal of Mechanisms and Robotics", 
+   2
+  ], 
+  [
+   "Annals of biomedical engineering", 
+   2
+  ], 
+  [
+   "信息技术", 
+   2
+  ], 
+  [
+   "Risk and change management in complex systems: Proceedings of the 16th International DSM ConferenceParis, France, 2-4 Juli 2014", 
+   2
+  ], 
+  [
+   "Ecological Modelling", 
+   2
+  ], 
+  [
+   "Reliability, IEEE Transactions on", 
+   2
+  ], 
+  [
+   "International Journal of Vehicle Design", 
+   2
+  ], 
+  [
+   "Mechanical Systems and Signal Processing", 
+   2
+  ], 
+  [
+   "Journal of Computational Physics", 
+   2
+  ], 
+  [
+   "Decision Support Systems", 
+   2
+  ], 
+  [
+   "Journal of Marketing Research", 
+   2
+  ], 
+  [
+   "EURO Journal on Computational Optimization", 
+   2
+  ], 
+  [
+   "International Journal of Mechanisms and Robotic Systems", 
+   2
+  ], 
+  [
+   "CIRP Annals-Manufacturing Technology", 
+   2
+  ], 
+  [
+   "Journal of Intelligent \\& Robotic Systems", 
+   2
+  ], 
+  [
+   "制造业自动化", 
+   2
+  ], 
+  [
+   "Engineering Computations", 
+   2
+  ], 
+  [
+   "Urbana", 
+   2
+  ], 
+  [
+   "Journal of Global Optimization", 
+   2
+  ], 
+  [
+   "Proceedings of the ASME IDETC/CIE", 
+   2
+  ], 
+  [
+   "Journal of Intelligent Material Systems and Structures", 
+   2
+  ], 
+  [
+   "Expert systems with applications", 
+   2
+  ], 
+  [
+   "SAE International journal of materials and manufacturing", 
+   2
+  ], 
+  [
+   "Transportation Research Part D: Transport and Environment", 
+   2
+  ], 
+  [
+   "Front. Heat Mass Transfer", 
+   2
+  ], 
+  [
+   "Applied Energy", 
+   2
+  ], 
+  [
+   "Automation in Construction", 
+   2
+  ], 
+  [
+   "International Journal of Research in Marketing", 
+   2
+  ], 
+  [
+   "Systems, Man, and Cybernetics: Systems, IEEE Transactions on", 
+   2
+  ], 
+  [
+   "电子科技大学学报", 
+   2
+  ], 
+  [
+   "International Journal of Reliability and Safety", 
+   2
+  ], 
+  [
+   "Annals of Operations Research", 
+   1
+  ], 
+  [
+   "International Journal of Control", 
+   1
+  ], 
+  [
+   "Proceedings of IDMME—Virtual Concept, Bordeaux, France", 
+   1
+  ], 
+  [
+   "Coordinates", 
+   1
+  ], 
+  [
+   "International Journal of Innovation and Technology Management", 
+   1
+  ], 
+  [
+   "Science, Measurement \\& Technology, IET", 
+   1
+  ], 
+  [
+   "international journal of business administration", 
+   1
+  ], 
+  [
+   "Online Information Review", 
+   1
+  ], 
+  [
+   "Advances in Ergonomics In Design, Usability \\& Special Populations: Part I", 
+   1
+  ], 
+  [
+   "Journal of Vibration and Acoustics", 
+   1
+  ], 
+  [
+   "Frontiers of Mechanical Engineering", 
+   1
+  ], 
+  [
+   "International Journal of Precision Engineering and Manufacturing-Green Technology", 
+   1
+  ], 
+  [
+   "한국과학예술포럼", 
+   1
+  ], 
+  [
+   "Journal of Optics A: Pure and Applied Optics", 
+   1
+  ], 
+  [
+   "Forensic science international", 
+   1
+  ], 
+  [
+   "Journal of Aerospace Computing, Information, and Communication", 
+   1
+  ], 
+  [
+   "International Journal of Solids and Structures", 
+   1
+  ], 
+  [
+   "Wireless Communications, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "汽车工程", 
+   1
+  ], 
+  [
+   "Advances in Applied Human Modeling and Simulation", 
+   1
+  ], 
+  [
+   "Department of Mechanical and Aerospace Engineering, University of Florida, Gainesville, FL", 
+   1
+  ], 
+  [
+   "Journal of the ACM (JACM)", 
+   1
+  ], 
+  [
+   "33nd AIAA Applied Aerodynamics Confererence, AIAA-2015-2421", 
+   1
+  ], 
+  [
+   "农业工程学报", 
+   1
+  ], 
+  [
+   "Inverse Problems", 
+   1
+  ], 
+  [
+   "Water, Air, \\& Soil Pollution", 
+   1
+  ], 
+  [
+   "Int. J. Optim. Civil Eng", 
+   1
+  ], 
+  [
+   "International Journal of Design Engineering", 
+   1
+  ], 
+  [
+   "Noise Control Engineering Journal", 
+   1
+  ], 
+  [
+   "Journal of failure analysis and prevention", 
+   1
+  ], 
+  [
+   "Journal of Sound and Vibration", 
+   1
+  ], 
+  [
+   "机械工程师", 
+   1
+  ], 
+  [
+   "Engineering with Computers", 
+   1
+  ], 
+  [
+   "SAE International Journal of Passenger Cars-Mechanical Systems", 
+   1
+  ], 
+  [
+   "International Journal for Uncertainty Quantification", 
+   1
+  ], 
+  [
+   "International Journal of Turbo \\& Jet-Engines", 
+   1
+  ], 
+  [
+   "Journal of Computational Design and Engineering", 
+   1
+  ], 
+  [
+   "SAE Int. J. Passeng. Cars-Mech. Syst", 
+   1
+  ], 
+  [
+   "Journal of Dynamic Systems, Measurement, and Control", 
+   1
+  ], 
+  [
+   "Archives of Computational Methods in Engineering", 
+   1
+  ], 
+  [
+   "Jixie Gongcheng Xuebao(Chinese Journal of Mechanical Engineering)", 
+   1
+  ], 
+  [
+   "J Automot. Saf. Energy", 
+   1
+  ], 
+  [
+   "Risk", 
+   1
+  ], 
+  [
+   "Proceedings of the Institution of Mechanical Engineers, Part D: Journal of automobile engineering", 
+   1
+  ], 
+  [
+   "Soft Computing", 
+   1
+  ], 
+  [
+   "arXiv preprint arXiv:1404.4820", 
+   1
+  ], 
+  [
+   "Building and Environment", 
+   1
+  ], 
+  [
+   "Modelling and Simulations", 
+   1
+  ], 
+  [
+   "Marketing Letters", 
+   1
+  ], 
+  [
+   "Family and Consumer Sciences Research Journal", 
+   1
+  ], 
+  [
+   "International Journal of Intelligent Engineering Informatics", 
+   1
+  ], 
+  [
+   "Quality and Reliability Engineering International", 
+   1
+  ], 
+  [
+   "Journal of Composite Materials", 
+   1
+  ], 
+  [
+   "Journal of Vibration and Control", 
+   1
+  ], 
+  [
+   "Optics express", 
+   1
+  ], 
+  [
+   "Journal of Shanghai Jiaotong University (Science)", 
+   1
+  ], 
+  [
+   "Transactions of the Chinese Society of Agricultural Engineering", 
+   1
+  ], 
+  [
+   "Journal of Industrial Ecology", 
+   1
+  ], 
+  [
+   "The Visual Computer", 
+   1
+  ], 
+  [
+   "Journal of Transport Geography", 
+   1
+  ], 
+  [
+   "Journal of Multi-Criteria Decision Analysis", 
+   1
+  ], 
+  [
+   "Wind Engineering", 
+   1
+  ], 
+  [
+   "Solar Energy", 
+   1
+  ], 
+  [
+   "한국 CAD/CAM 학회 논문집", 
+   1
+  ], 
+  [
+   "Energy", 
+   1
+  ], 
+  [
+   "SAE Int. J. Mater. Manf", 
+   1
+  ], 
+  [
+   "Applied ergonomics", 
+   1
+  ], 
+  [
+   "Chinese Journal of Mechanical Engineering", 
+   1
+  ], 
+  [
+   "Neurocomputing", 
+   1
+  ], 
+  [
+   "Design Studies", 
+   1
+  ], 
+  [
+   "Soft Robotics", 
+   1
+  ], 
+  [
+   "Chinese Journal of Aeronautics", 
+   1
+  ], 
+  [
+   "System Design Optimization for Product Manufacturing", 
+   1
+  ], 
+  [
+   "Journal of microscopy", 
+   1
+  ], 
+  [
+   "Production Engineering", 
+   1
+  ], 
+  [
+   "International Journal of Automation and Computing", 
+   1
+  ], 
+  [
+   "河海大学学报: 自然科学版", 
+   1
+  ], 
+  [
+   "Construction Management and Economics", 
+   1
+  ], 
+  [
+   "International Journal of Prognostics and Health Management", 
+   1
+  ], 
+  [
+   "Ann Arbor", 
+   1
+  ], 
+  [
+   "Electronic Theses and Dissertations (ETDs) 2008+", 
+   1
+  ], 
+  [
+   "International Journal of Innovation Science", 
+   1
+  ], 
+  [
+   "International Journal of Advanced Operations Management 11", 
+   1
+  ], 
+  [
+   "电工技术学报", 
+   1
+  ], 
+  [
+   "水力发电", 
+   1
+  ], 
+  [
+   "Computer Methods in Biomechanics and Biomedical Engineering: Imaging \\& Visualization", 
+   1
+  ], 
+  [
+   "Journal of Advanced Mechanical Design, Systems, and Manufacturing", 
+   1
+  ], 
+  [
+   "Advances in Product Family and Product Platform Design", 
+   1
+  ], 
+  [
+   "Chemical Engineering Research and Design", 
+   1
+  ], 
+  [
+   "Вісник Запорізького національного університету. Серія Фізико-математичні науки.—2010.—Вип", 
+   1
+  ], 
+  [
+   "Physics of Fluids (1994-present)", 
+   1
+  ], 
+  [
+   "optimization", 
+   1
+  ], 
+  [
+   "Intelligent Decision Technologies", 
+   1
+  ], 
+  [
+   "Environmental science \\& technology", 
+   1
+  ], 
+  [
+   "Gainesville: University of Florida", 
+   1
+  ], 
+  [
+   "复合材料学报", 
+   1
+  ], 
+  [
+   "Nuclear Engineering and Design", 
+   1
+  ], 
+  [
+   "中国机械工程", 
+   1
+  ], 
+  [
+   "Mechanics Based Design of Structures and Machines", 
+   1
+  ], 
+  [
+   "New Pricing Models", 
+   1
+  ], 
+  [
+   "Computational Geosciences", 
+   1
+  ], 
+  [
+   "Journal of Professional Issues in Engineering Education and Practice", 
+   1
+  ], 
+  [
+   "Energy Conversion, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "ОнтОлОгия", 
+   1
+  ], 
+  [
+   "Structural and Multidisciplinary optimization", 
+   1
+  ], 
+  [
+   "Journal of Modelling in Management", 
+   1
+  ], 
+  [
+   "Journal of Strategic Marketing", 
+   1
+  ], 
+  [
+   "submitted to NURETH", 
+   1
+  ], 
+  [
+   "管理工程师", 
+   1
+  ], 
+  [
+   "International Journal of Material Forming", 
+   1
+  ], 
+  [
+   "兵工学报", 
+   1
+  ], 
+  [
+   "Computer methods in biomechanics and biomedical engineering", 
+   1
+  ], 
+  [
+   "Semiconductor Manufacturing, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Magnetics, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Structural safety", 
+   1
+  ], 
+  [
+   "Fuzzy Systems, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Int J Syst Innov", 
+   1
+  ], 
+  [
+   "21{\\`e}me Congr{\\`e}s Fran{\\c{c}}ais de M{\\'e}canique, 26 au 30 ao{\\^u}t 2013, Bordeaux, France (FR)", 
+   1
+  ], 
+  [
+   "設計工学・システム部門講演会講演論文集", 
+   1
+  ], 
+  [
+   "Journal of STEM Education: Innovations and Research", 
+   1
+  ], 
+  [
+   "International Journal of Fatigue", 
+   1
+  ], 
+  [
+   "Probabilistic Engineering Mechanics", 
+   1
+  ], 
+  [
+   "Applied Thermal Engineering", 
+   1
+  ], 
+  [
+   "SIAM Journal on Control and Optimization", 
+   1
+  ], 
+  [
+   "TELKOMNIKA Indonesian Journal of Electrical Engineering", 
+   1
+  ], 
+  [
+   "Mechanics of Materials", 
+   1
+  ], 
+  [
+   "机械设计与制造", 
+   1
+  ], 
+  [
+   "Journal of the Operational Research Society", 
+   1
+  ], 
+  [
+   "Annals of DAAAM \\& Proceedings", 
+   1
+  ], 
+  [
+   "Journal of Applied Mechanics", 
+   1
+  ], 
+  [
+   "Applied Soft Computing", 
+   1
+  ], 
+  [
+   "Electrical Insulation Magazine, IEEE", 
+   1
+  ], 
+  [
+   "International Journal of Advanced Intelligence Paradigms", 
+   1
+  ], 
+  [
+   "Journal of Environment and Engineering", 
+   1
+  ], 
+  [
+   "Journal of Electronic Packaging", 
+   1
+  ], 
+  [
+   "J Zhejiang Univ Sci", 
+   1
+  ], 
+  [
+   "Shock and Vibration", 
+   1
+  ], 
+  [
+   "Milan Journal of Mathematics", 
+   1
+  ], 
+  [
+   "Surveys in Operations Research and Management Science", 
+   1
+  ], 
+  [
+   "Visualization and Computer Graphics, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Journal of Information Systems", 
+   1
+  ], 
+  [
+   "The Design Guidelines Collaborative Framework: A Design for Multi-X Method for Product Development", 
+   1
+  ], 
+  [
+   "Journal of the Brazilian Society of Mechanical Sciences and Engineering", 
+   1
+  ], 
+  [
+   "Vehicular Technology, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Journal of Central South University", 
+   1
+  ], 
+  [
+   "Mechanical Engineering Journal", 
+   1
+  ], 
+  [
+   "International Journal of Product Development 18", 
+   1
+  ], 
+  [
+   "International Journal of Performability Engineering", 
+   1
+  ], 
+  [
+   "Applied Mathematical Modelling", 
+   1
+  ], 
+  [
+   "Advances in Computers and Information in Engineering Research", 
+   1
+  ], 
+  [
+   "Journal of Manufacturing Systems", 
+   1
+  ], 
+  [
+   "IIE Transactions", 
+   1
+  ], 
+  [
+   "Journal of Spacecraft and Rockets", 
+   1
+  ], 
+  [
+   "New Generation Computing", 
+   1
+  ], 
+  [
+   "Desalination and Water Treatment", 
+   1
+  ], 
+  [
+   "中国科学: 技术科学", 
+   1
+  ], 
+  [
+   "arXiv preprint arXiv:1206.5015", 
+   1
+  ], 
+  [
+   "European Journal of Operational Research", 
+   1
+  ], 
+  [
+   "International Journal of Impact Engineering", 
+   1
+  ], 
+  [
+   "航空计算技术", 
+   1
+  ], 
+  [
+   "Human Factors: The Journal of the Human Factors and Ergonomics Society", 
+   1
+  ], 
+  [
+   "Journal of Cellular Automata", 
+   1
+  ], 
+  [
+   "福建电脑", 
+   1
+  ], 
+  [
+   "工程力学", 
+   1
+  ], 
+  [
+   "Journal of Power Sources", 
+   1
+  ], 
+  [
+   "Journal of Medical Devices", 
+   1
+  ], 
+  [
+   "대한기계학회논문집 A 권", 
+   1
+  ], 
+  [
+   "International Journal of Space Structures", 
+   1
+  ], 
+  [
+   "Journal of Turbulence", 
+   1
+  ], 
+  [
+   "Meccanica", 
+   1
+  ], 
+  [
+   "Virtual Reality", 
+   1
+  ], 
+  [
+   "International Journal of Vehicle Noise and Vibration", 
+   1
+  ], 
+  [
+   "Revista Ingenier{\\'\\i}a Biom{\\'e}dica", 
+   1
+  ], 
+  [
+   "Simulation Modelling Practice and Theory", 
+   1
+  ], 
+  [
+   "The International Journal of Life Cycle Assessment", 
+   1
+  ], 
+  [
+   "Journal of Electrical Engineering \\& Technology (JEET)", 
+   1
+  ], 
+  [
+   "Applied Mathematics", 
+   1
+  ], 
+  [
+   "Science China Technological Sciences", 
+   1
+  ], 
+  [
+   "Journal of Computer Graphics Techniques Vol", 
+   1
+  ], 
+  [
+   "International Journal of Human Factors Modelling and Simulation 1", 
+   1
+  ], 
+  [
+   "计算机辅助设计与图形学学报", 
+   1
+  ], 
+  [
+   "LAI Paper Series\" Lean Product Development for Practitioners", 
+   1
+  ], 
+  [
+   "Human-Machine Systems, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "2014 제 29 회 ICROS 학술대회", 
+   1
+  ], 
+  [
+   "ASME Paper No. DETC2012-71198", 
+   1
+  ], 
+  [
+   "International Journal of Indian Culture and Business Management", 
+   1
+  ], 
+  [
+   "Proceedings of the Estonian Academy of Sciences", 
+   1
+  ], 
+  [
+   "情报理论与实践", 
+   1
+  ], 
+  [
+   "EcoHealth", 
+   1
+  ], 
+  [
+   "中国电机工程学报", 
+   1
+  ], 
+  [
+   "arXiv preprint arXiv:1404.4261", 
+   1
+  ], 
+  [
+   "Journal of Heat Transfer", 
+   1
+  ], 
+  [
+   "International journal of vehicle design", 
+   1
+  ], 
+  [
+   "Tools and methods for competitive engineering", 
+   1
+  ], 
+  [
+   "微电子学与计算机", 
+   1
+  ], 
+  [
+   "Journal of the Franklin Institute", 
+   1
+  ], 
+  [
+   "IJPHM Special Issue on Wind Turbine PHM (Color)", 
+   1
+  ], 
+  [
+   "Transportation", 
+   1
+  ], 
+  [
+   "Optimization and Engineering", 
+   1
+  ], 
+  [
+   "Idaho National Laboratory Tech. Rep. INL-MIS-12-27303", 
+   1
+  ], 
+  [
+   "Materials and Manufacturing Processes", 
+   1
+  ], 
+  [
+   "Journal of The Institution of Engineers (India): Series C", 
+   1
+  ], 
+  [
+   "Nature reviews Drug discovery", 
+   1
+  ], 
+  [
+   "Progress in Aerospace Sciences", 
+   1
+  ], 
+  [
+   "Powder Metallurgy", 
+   1
+  ], 
+  [
+   "Journal of Service Research", 
+   1
+  ], 
+  [
+   "International Journal of Systems Science", 
+   1
+  ], 
+  [
+   "International Journal of Computer Integrated Manufacturing", 
+   1
+  ], 
+  [
+   "Journal of Mechanical Engineering and Automation", 
+   1
+  ], 
+  [
+   "SAE International Journal of Commercial Vehicles", 
+   1
+  ], 
+  [
+   "Journal of Zhejiang University-Science A", 
+   1
+  ], 
+  [
+   "International Journal on Interactive Design and Manufacturing", 
+   1
+  ], 
+  [
+   "清华大学学报: 自然科学版", 
+   1
+  ], 
+  [
+   "Contract", 
+   1
+  ], 
+  [
+   "Machine learning", 
+   1
+  ], 
+  [
+   "International Journal of Simulation Modelling", 
+   1
+  ], 
+  [
+   "Transactions of FAMENA", 
+   1
+  ], 
+  [
+   "Automation Science and Engineering, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "PloS one", 
+   1
+  ], 
+  [
+   "Management Science", 
+   1
+  ], 
+  [
+   "SAE Int J Passenger Cars Mech Syst", 
+   1
+  ], 
+  [
+   "Materials \\& Design", 
+   1
+  ], 
+  [
+   "Journal of strategic marketing", 
+   1
+  ], 
+  [
+   "Journal of marketing research", 
+   1
+  ], 
+  [
+   "科技进步与对策", 
+   1
+  ], 
+  [
+   "International Journal of Mechanical Engineering Education", 
+   1
+  ], 
+  [
+   "Nature communications", 
+   1
+  ], 
+  [
+   "Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering", 
+   1
+  ], 
+  [
+   "国防科技大学学报", 
+   1
+  ], 
+  [
+   "Energy Institute at Haas Working Paper", 
+   1
+  ], 
+  [
+   "Data mining and knowledge discovery", 
+   1
+  ], 
+  [
+   "Design for X", 
+   1
+  ], 
+  [
+   "Integrated Computer-Aided Engineering", 
+   1
+  ], 
+  [
+   "Journal of Thermal Science and Engineering Applications", 
+   1
+  ], 
+  [
+   "Engineering", 
+   1
+  ], 
+  [
+   "Product-Service Integration for Sustainable Solutions, LNPE, Springer", 
+   1
+  ], 
+  [
+   "ESAIM: Control, Optimisation and Calculus of Variations", 
+   1
+  ], 
+  [
+   "Int. J. Progn. Health Manag", 
+   1
+  ], 
+  [
+   "Industrial Engineering and Management Systems", 
+   1
+  ], 
+  [
+   "BioMed research international", 
+   1
+  ], 
+  [
+   "Technovation", 
+   1
+  ], 
+  [
+   "Applied Mechanics \\& Materials", 
+   1
+  ], 
+  [
+   "Industrial Marketing Management", 
+   1
+  ], 
+  [
+   "age", 
+   1
+  ], 
+  [
+   "International Journal of Computer Aided Engineering and Technology 8", 
+   1
+  ], 
+  [
+   "武汉理工大学学报", 
+   1
+  ], 
+  [
+   "Neural Networks, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Industrial \\& Engineering Chemistry Research", 
+   1
+  ], 
+  [
+   "Journal of Systems Science and Systems Engineering", 
+   1
+  ], 
+  [
+   "Smart Grid, IEEE Transactions on", 
+   1
+  ], 
+  [
+   "Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture", 
+   1
+  ], 
+  [
+   "International Journal of Systematic Innovation", 
+   1
+  ]
+ ], 
+ "organizations": [
+  [
+   "American Society of Mechanical Engineers", 
+   543
+  ], 
+  [
+   "IEEE", 
+   74
+  ], 
+  [
+   "Trans Tech Publ", 
+   9
+  ], 
+  [
+   "John Wiley \\& Sons", 
+   6
+  ], 
+  [
+   "Institute of Industrial Engineers-Publisher", 
+   5
+  ], 
+  [
+   "ACM", 
+   4
+  ], 
+  [
+   "International Society for Optics and Photonics", 
+   4
+  ], 
+  [
+   "IEEE Press", 
+   2
+  ], 
+  [
+   "World Scientific", 
+   2
+  ], 
+  [
+   "Hindawi Publishing Corporation", 
+   2
+  ], 
+  [
+   "Springer", 
+   1
+  ], 
+  [
+   "IET", 
+   1
+  ], 
+  [
+   "VDE", 
+   1
+  ], 
+  [
+   "John Wiley \\& Sons, Inc.", 
+   1
+  ], 
+  [
+   "IOP Publishing", 
+   1
+  ], 
+  [
+   "Wiley Online Library", 
+   1
+  ], 
+  [
+   "Winter Simulation Conference", 
+   1
+  ], 
+  [
+   "WILEY-BLACKWELL 111 RIVER ST, HOBOKEN 07030-5774, NJ USA", 
+   1
+  ]
+ ], 
+ "yearly": {
+  "0": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    8
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    8
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    7
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    7
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    5
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    4
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    3
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    3
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    3
+   ], 
+   [
+    "Risk Management in Product Design: Current State, Conceptual Model and Future Research", 
+    3
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    3
+   ], 
+   [
+    "Multi-Stage Uncertainty Quantification for Verifying the Correctness of Complex System Designs", 
+    3
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    3
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    3
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    3
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    3
+   ], 
+   [
+    "Design of Nonlinear Dynamic Systems Using Surrogate Models of Derivative Functions", 
+    3
+   ], 
+   [
+    "Characterizing the Influence of Land Configuration on the Optimal Wind Farm Performance", 
+    3
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    3
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    3
+   ], 
+   [
+    "A Novel Second-Order Reliability Method (SORM) Using Non-Central or Generalized Chi-Squared Distributions", 
+    2
+   ], 
+   [
+    "Reliable Kinetic Monte Carlo Simulation Based on Random Set Sampling", 
+    2
+   ], 
+   [
+    "Concurrent Surrogate Model Selection (COSMOS) Based on Predictive Estimation of Model Fidelity", 
+    2
+   ], 
+   [
+    "Function Extrapolation at One Inaccessible Point Using Converging Lines", 
+    2
+   ], 
+   [
+    "An Improved Kriging Assisted Multi-Objective Genetic Algorithm", 
+    2
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    2
+   ], 
+   [
+    "Development and Application of a Patent-Based Design Around Process", 
+    2
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    2
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ], 
+   [
+    "Comparison Study Between Probabilistic and Possibilistic Approach for Problems With Correlated Input and Lack of Input Statistical Information", 
+    2
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    2
+   ], 
+   [
+    "Effective Random Field Characterization Considering Statistical Dependence for Probability Analysis and Design", 
+    2
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    2
+   ], 
+   [
+    "Plug-In Hybrid Vehicle Simulation: How Battery Weight and Charging Patterns Impact Cost, Fuel Consumption, and CO2 Emissions", 
+    2
+   ], 
+   [
+    "A Graph Grammar Based Approach to Automated Manufacturing Planning", 
+    2
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    2
+   ], 
+   [
+    "Topography Optimization of Shell Structures Under Transient Loading: A Comparative Approach", 
+    2
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    2
+   ], 
+   [
+    "Consistency Constraint Allocation in Augmented Lagrangian Coordination", 
+    2
+   ], 
+   [
+    "Parametric Modeling and Optimization of Chemical Vapor Deposition Process", 
+    2
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    2
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    2
+   ], 
+   [
+    "Combined Plant and Controller Design Using Decomposition-Based Design Optimization and the Minimum Principle", 
+    2
+   ], 
+   [
+    "Wave Energy Extraction Maximization in Irregular Ocean Waves Using Pseudospectral Methods", 
+    2
+   ], 
+   [
+    "Planning on Mistakes: An Approach to Incorporate Error Checking Into the Design Process", 
+    2
+   ], 
+   [
+    "A Fast and Efficient Compact Packing Algorithm for Free-Form Objects", 
+    2
+   ], 
+   [
+    "Sequential Quadratic Programming for Robust Optimization With Interval Uncertainty", 
+    2
+   ], 
+   [
+    "Uncertainty Quantification in Time-Dependent Reliability Analysis", 
+    2
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    2
+   ], 
+   [
+    "Turning Black-Box Into White Functions", 
+    1
+   ]
+  ], 
+  "2002": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ]
+  ], 
+  "2003": [], 
+  "2004": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    2
+   ]
+  ], 
+  "2005": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    1
+   ]
+  ], 
+  "2006": [], 
+  "2007": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    2
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    1
+   ]
+  ], 
+  "2008": [
+   [
+    "Relating Two Domains via a Third: An Approach to Overcome Ambiguous Attributions Using Multiple Domain Matrices", 
+    2
+   ], 
+   [
+    "Assembly and Variety Considerations During Conceptual Design", 
+    1
+   ], 
+   [
+    "Selection of Copula to Generate Input Joint CDF for RBDO", 
+    1
+   ], 
+   [
+    "Trending Mining for Predictive Product Design", 
+    1
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    1
+   ], 
+   [
+    "Generative Design and CNC Fabrication Using Shape Grammars", 
+    1
+   ], 
+   [
+    "Contact Analysis Between a Moving Solid and the Boundary of Its Swept Volume", 
+    1
+   ], 
+   [
+    "An Approach to Automate Concept Generation of Sheet Metal Parts Based on Manufacturing Operations", 
+    1
+   ], 
+   [
+    "A General Approach to Robustness Assessment for Multidisciplinary Systems", 
+    1
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    1
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    1
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    1
+   ], 
+   [
+    "Evolutive Design of Car Silhouettes", 
+    1
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    1
+   ], 
+   [
+    "Exploring Differences in Preference Heterogeneity Representation and Their Influence in Product Family Design", 
+    1
+   ]
+  ], 
+  "2009": [
+   [
+    "Should Designers Worry About Market Systems?", 
+    8
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    5
+   ], 
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ], 
+   [
+    "Relating Two Domains via a Third: An Approach to Overcome Ambiguous Attributions Using Multiple Domain Matrices", 
+    4
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    4
+   ], 
+   [
+    "Predicting 5th and 95th Percentile Anthropometric Segment Lengths From Population Stature", 
+    4
+   ], 
+   [
+    "An Improved Initial Population Strategy for Compliant Mechanism Designs Using Evolutionary Optimization", 
+    3
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    3
+   ], 
+   [
+    "Optimal Kinematics Design of an Industrial Robot Family", 
+    3
+   ], 
+   [
+    "Feature-Based Crystal Construction in Computer-Aided Nano-Design", 
+    3
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    3
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    3
+   ], 
+   [
+    "A Fast and Efficient Compact Packing Algorithm for Free-Form Objects", 
+    3
+   ], 
+   [
+    "Choice Model Specification in Market-Based Engineering Design", 
+    3
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    3
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    2
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ], 
+   [
+    "Generative Design and CNC Fabrication Using Shape Grammars", 
+    2
+   ], 
+   [
+    "Multi-Objective Optimization of Product Configuration", 
+    2
+   ], 
+   [
+    "Optimal Product Design Under Price Competition", 
+    2
+   ], 
+   [
+    "Designing Embodiment Design Processes Using a Value-of-Information-Based Approach With Applications for Integrated Product and Materials Design", 
+    2
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    2
+   ], 
+   [
+    "Functional Part Families and Design Change for Mechanical Assemblies", 
+    2
+   ], 
+   [
+    "A General Approach to Robustness Assessment for Multidisciplinary Systems", 
+    2
+   ], 
+   [
+    "Variation Analysis of Position, Velocity, and Acceleration of Two-Dimensional Mechanisms by the Direct Linearization Method", 
+    2
+   ], 
+   [
+    "Using Multiple Surrogates for Minimization of the RMS Error in Meta-Modeling", 
+    2
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    2
+   ], 
+   [
+    "Genetic Programming of an Artificial Neural Network for Robust Control of a 2-D Path Following Robot", 
+    2
+   ], 
+   [
+    "Shape Optimization of a Camoid Follower Surface", 
+    2
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    1
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    1
+   ], 
+   [
+    "Selection of Copula to Generate Input Joint CDF for RBDO", 
+    1
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    1
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    1
+   ], 
+   [
+    "Assessing Functional and Shape Differentiation Within a Family of Products", 
+    1
+   ], 
+   [
+    "A Review of Recent Phase Transition Simulation Methods: Transition Path Search", 
+    1
+   ], 
+   [
+    "Finite Element Model Updating Approach to Damage Identification in Beams Using Particle Swarm Optimization", 
+    1
+   ], 
+   [
+    "Design of Compliant Thermal Actuators Using Structural Optimization Based on the Level Set Method", 
+    1
+   ], 
+   [
+    "Uncertainty Analysis of Damage Evolution Computed Through Microstructure-Property Relations", 
+    1
+   ], 
+   [
+    "A Multiscale Design Approach With Random Field Representation of Material Uncertainty", 
+    1
+   ], 
+   [
+    "Topology Optimization of a MEMS Resonator Using Hybrid Fuzzy Techniques", 
+    1
+   ], 
+   [
+    "Energy Characteristic State Model for Automated Conceptual Design of Hydraulic System", 
+    1
+   ], 
+   [
+    "Product Family Design: Strategic Principles to Choose Between Product-Driven and Platform-Driven Processes", 
+    1
+   ], 
+   [
+    "Consistency Constraint Allocation in Augmented Lagrangian Coordination", 
+    1
+   ], 
+   [
+    "Design Automation Tools as a Support for Knowledge Management in Topology Optimization", 
+    1
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    1
+   ], 
+   [
+    "An Integrated Process Planning System Architecture for Machining and On-Machine Inspection", 
+    1
+   ], 
+   [
+    "A Deterministic Lagrangian-Based Global Optimization Approach for Large Scale Decomposable Problems", 
+    1
+   ], 
+   [
+    "Elicitation and Modeling of Customers’ Preferences in Industrial Design: A Comparative Study on Vehicle Front End", 
+    1
+   ], 
+   [
+    "Improving the Performance of Visual Steering Commands for Multi-Dimensional Trade Space Exploration", 
+    1
+   ]
+  ], 
+  "2010": [
+   [
+    "Should Designers Worry About Market Systems?", 
+    13
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    6
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    5
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    5
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    4
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    4
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    4
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    4
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    4
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    4
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    4
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    3
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    3
+   ], 
+   [
+    "Risk Management in Product Design: Current State, Conceptual Model and Future Research", 
+    3
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    3
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    3
+   ], 
+   [
+    "Optimal Product Design Under Price Competition", 
+    3
+   ], 
+   [
+    "Consistency Constraint Allocation in Augmented Lagrangian Coordination", 
+    3
+   ], 
+   [
+    "Parametric Modeling and Optimization of Chemical Vapor Deposition Process", 
+    3
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    3
+   ], 
+   [
+    "Predicting 5th and 95th Percentile Anthropometric Segment Lengths From Population Stature", 
+    3
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    3
+   ], 
+   [
+    "Choice Model Specification in Market-Based Engineering Design", 
+    3
+   ], 
+   [
+    "A Hybrid Models Deformation Tool for Free-Form Shapes Manipulation", 
+    3
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    2
+   ], 
+   [
+    "Direct 3D Layer Metal Deposition and Toolpath Generation", 
+    2
+   ], 
+   [
+    "Interval Extensions of Signed Distance Functions: Uniform Samplings and the Range of Associated Implicit Objects", 
+    2
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level Under Input Model Uncertainty", 
+    2
+   ], 
+   [
+    "Generative Design and CNC Fabrication Using Shape Grammars", 
+    2
+   ], 
+   [
+    "A Preliminary Study of Novice and Expert Users’ Decision-Making Procedures During Visual Trade Space Exploration", 
+    2
+   ], 
+   [
+    "An Industrial Trial of a Set-Based Approach to Collaborative Design", 
+    2
+   ], 
+   [
+    "A Simulation-Based RBDO Method Using Probabilistic Re-Analysis and a Trust Region Approach", 
+    2
+   ], 
+   [
+    "Examining Interactions Between Solution Architecture and Designer Mistakes", 
+    2
+   ], 
+   [
+    "Design of Compliant Thermal Actuators Using Structural Optimization Based on the Level Set Method", 
+    2
+   ], 
+   [
+    "Metrics-Based Approach for VR Technology Evaluation in Styling Product Design", 
+    2
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    2
+   ], 
+   [
+    "A Design Method for Developing a Universal Product Family in a Dynamic Market Environment", 
+    2
+   ], 
+   [
+    "Design Improvement by Sensitivity Analysis (DISA) Under Interval Uncertainty Using Multi-Objective Optimization", 
+    2
+   ], 
+   [
+    "A Measure of the Information Loss for Inspection Point Reduction", 
+    2
+   ], 
+   [
+    "Turning Black-Box Into White Functions", 
+    1
+   ], 
+   [
+    "A Virtual Reality Interface for the Design of Compliant Mechanisms", 
+    1
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    1
+   ], 
+   [
+    "Design Achievement Model for Planning Creative and Concurrent Design Process", 
+    1
+   ], 
+   [
+    "Reducible Uncertain Interval Design (RUID) by Kriging Meta-Model Assisted Multi-Objective Optimization", 
+    1
+   ], 
+   [
+    "Modified Reduced Gradient With Realizations Sorting for Hard Equality Constraints in Reliability-Based Design Optimization", 
+    1
+   ], 
+   [
+    "A Study of Covariance Functions for Multi-Response Metamodeling for Simulation-Based Design and Optimization", 
+    1
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    1
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    1
+   ], 
+   [
+    "An Improved Initial Population Strategy for Compliant Mechanism Designs Using Evolutionary Optimization", 
+    1
+   ], 
+   [
+    "Multi-Category Design of Bundled Products for Retail Channels Considering Demand Uncertainty and Competition", 
+    1
+   ]
+  ], 
+  "2011": [
+   [
+    "Should Designers Worry About Market Systems?", 
+    14
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    8
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    7
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    7
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    6
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    6
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    6
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    5
+   ], 
+   [
+    "Parametric Modeling and Optimization of Chemical Vapor Deposition Process", 
+    5
+   ], 
+   [
+    "Choice Model Specification in Market-Based Engineering Design", 
+    5
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    4
+   ], 
+   [
+    "Design Preference Elicitation, Derivative-Free Optimization and Support Vector Machine Search", 
+    4
+   ], 
+   [
+    "Selection of Copula to Generate Input Joint CDF for RBDO", 
+    4
+   ], 
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ], 
+   [
+    "Risk Management in Product Design: Current State, Conceptual Model and Future Research", 
+    4
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    4
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    4
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    4
+   ], 
+   [
+    "A Framework for Choice Modeling in Usage Context-Based Design", 
+    4
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    4
+   ], 
+   [
+    "Planning on Mistakes: An Approach to Incorporate Error Checking Into the Design Process", 
+    4
+   ], 
+   [
+    "Evolutive Design of Car Silhouettes", 
+    4
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    3
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    3
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    3
+   ], 
+   [
+    "Multi-Stage Uncertainty Quantification for Verifying the Correctness of Complex System Designs", 
+    3
+   ], 
+   [
+    "Optimal Product Design Under Price Competition", 
+    3
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    3
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    3
+   ], 
+   [
+    "Predicting 5th and 95th Percentile Anthropometric Segment Lengths From Population Stature", 
+    3
+   ], 
+   [
+    "A Strategic Module-Based Platform Design Method for Developing Customized Products in Dynamic and Uncertain Market Environments", 
+    3
+   ], 
+   [
+    "Evolutionary Multi-Agent Systems: An Adaptive Approach to Optimization in Dynamic Environments", 
+    3
+   ], 
+   [
+    "Experimental Damage Characterization of Hexagonal Honeycombs Subjected to In-Plane Shear Loading", 
+    3
+   ], 
+   [
+    "The Application of Product Platform Design to the Reuse of Electronic Components Subject to Long-Term Supply Chain Disruptions", 
+    3
+   ], 
+   [
+    "Euclidean Symmetry Detection From Scanned Meshes Based on a Combination of ICP and Region Growing Algorithms", 
+    2
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    2
+   ], 
+   [
+    "Requirement Change Propagation Prediction Approach: Results From an Industry Case Study", 
+    2
+   ], 
+   [
+    "Automatically Generating Form Concepts According to Consumer Preference: A Shape Grammar Implementation With Software Agents", 
+    2
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    2
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    2
+   ], 
+   [
+    "Development and Application of a Patent-Based Design Around Process", 
+    2
+   ], 
+   [
+    "Assessing Functional and Shape Differentiation Within a Family of Products", 
+    2
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ], 
+   [
+    "A Review of Recent Phase Transition Simulation Methods: Transition Path Search", 
+    2
+   ], 
+   [
+    "Knowledge Management for Fault Tree Analysis Based on Quantity Dimension Indexing", 
+    2
+   ], 
+   [
+    "Automated Design of an Industrial Robot Family", 
+    2
+   ], 
+   [
+    "An Industrial Trial of a Set-Based Approach to Collaborative Design", 
+    2
+   ], 
+   [
+    "Examining Interactions Between Solution Architecture and Designer Mistakes", 
+    2
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    2
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    2
+   ]
+  ], 
+  "2012": [
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    13
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    11
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    9
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    7
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    7
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    6
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    6
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    6
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    6
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    5
+   ], 
+   [
+    "Requirement Change Propagation Prediction Approach: Results From an Industry Case Study", 
+    5
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    5
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    5
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    5
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    5
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    5
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    5
+   ], 
+   [
+    "A Cutting Plane Method for Analytical Target Cascading With Augmented Lagrangian Coordination", 
+    5
+   ], 
+   [
+    "Universal Product Family Design Valuation in an Uncertain Market Environment", 
+    4
+   ], 
+   [
+    "Strain-Based Topology Optimization for Crashworthiness Using Hybrid Cellular Automata", 
+    4
+   ], 
+   [
+    "Updating Predictive Models: Calibration, Bias Correction and Identifiability", 
+    4
+   ], 
+   [
+    "Optimization of Tool Handle Shape for a Target User Population", 
+    4
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    4
+   ], 
+   [
+    "Addressing Limitations of Pareto Front in Design Under Uncertainty", 
+    4
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level for Non-Gaussian Distributions Using Bootstrap Method", 
+    4
+   ], 
+   [
+    "Multidisciplinary Design Optimization of Modular Industrial Robots", 
+    4
+   ], 
+   [
+    "Experimental Damage Characterization of Hexagonal Honeycombs Subjected to In-Plane Shear Loading", 
+    4
+   ], 
+   [
+    "Reliable Design Optimization Under Aleatory and Epistemic Uncertainties", 
+    4
+   ], 
+   [
+    "Design Optimization of Reverse Osmosis Water Desalination Systems via Genetic Algorithms", 
+    4
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    4
+   ], 
+   [
+    "Turning Black-Box Into White Functions", 
+    3
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    3
+   ], 
+   [
+    "Reconfigurable Products and Their Means of Reconfiguration", 
+    3
+   ], 
+   [
+    "A Rational Design Approach to Gaussian Process Modeling for Variable Fidelity Models", 
+    3
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    3
+   ], 
+   [
+    "A Function Based Approach for Product Integration", 
+    3
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    3
+   ], 
+   [
+    "Multi-Objective Optimization of Product Configuration", 
+    3
+   ], 
+   [
+    "A Graph Grammar Based Approach to Automated Manufacturing Planning", 
+    3
+   ], 
+   [
+    "Mass Customization: A Review of the Paradigm Across Marketing, Engineering and Distribution Domains", 
+    3
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    3
+   ], 
+   [
+    "Improving Multi-Objective Robust Optimization Under Interval Uncertainty Using Worst Possible Point Constraint Cuts", 
+    3
+   ], 
+   [
+    "Strategic Product Design Decisions for Uncertain Market Systems Using an Agent Based Approach", 
+    3
+   ], 
+   [
+    "An Engineering Design Strategy for Reconfigurable Products That Support Poverty Alleviation", 
+    3
+   ], 
+   [
+    "Object-Oriented Modeling of Industrial Manipulators With Application to Energy Optimal Trajectory Scaling", 
+    3
+   ], 
+   [
+    "Response Surface Based Cost Model for Onshore Wind Farms Using Extended Radial Basis Functions", 
+    3
+   ], 
+   [
+    "Concept Opportunity Diagrams: A Visual Modeling Method to Find Multifunctional Design Concepts", 
+    3
+   ], 
+   [
+    "Structural Optimization of Lattice Materials", 
+    2
+   ], 
+   [
+    "Reverse Engineering for Spotting of Sheet Metal Forming Parts", 
+    2
+   ], 
+   [
+    "An Investigation of Sustainability, Preference, and Profitability in Design Optimization", 
+    2
+   ]
+  ], 
+  "2013": [
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    13
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    11
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    10
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    9
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    9
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    9
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    8
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    8
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    7
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    6
+   ], 
+   [
+    "Learning Stylistic Desires and Generating Preferred Designs of Consumers Using Neural Networks and Genetic Algorithms", 
+    6
+   ], 
+   [
+    "Analysis and Design of an In-Pipe System for Water Leak Detection", 
+    6
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    6
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    5
+   ], 
+   [
+    "Multi-Objective Design and Tolerance Allocation for Single- and Multi-Level Systems", 
+    5
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    5
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    5
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    5
+   ], 
+   [
+    "Design of Chiral Honeycomb Meso-Structures for High Shear Flexure", 
+    5
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    5
+   ], 
+   [
+    "Representation: Structural Complexity of Assemblies to Create Neural Network Based Assembly Time Estimation Models", 
+    5
+   ], 
+   [
+    "Tolerance Allocation of Assemblies Using Fuzzy Comprehensive Evaluation and Decision Support Processes", 
+    5
+   ], 
+   [
+    "Modeling of Geometric Variations for Line-Profiles", 
+    5
+   ], 
+   [
+    "Modular Product Configuration: An Automatic Tool for Eliciting Design Knowledge From Parametric CAD Models", 
+    4
+   ], 
+   [
+    "An Improved Kriging Assisted Multi-Objective Genetic Algorithm", 
+    4
+   ], 
+   [
+    "Requirement Change Propagation Prediction Approach: Results From an Industry Case Study", 
+    4
+   ], 
+   [
+    "Optimization of Tool Handle Shape for a Target User Population", 
+    4
+   ], 
+   [
+    "Risk Management in Product Design: Current State, Conceptual Model and Future Research", 
+    4
+   ], 
+   [
+    "A New Framework for Collaborative Set-Based Design: Application to the Design Problem of a Hollow Cylindrical Cantilever Beam", 
+    4
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    4
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    4
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level for Non-Gaussian Distributions Using Bootstrap Method", 
+    4
+   ], 
+   [
+    "An Engineering Design Strategy for Reconfigurable Products That Support Poverty Alleviation", 
+    4
+   ], 
+   [
+    "A New Model for Wind Farm Layout Optimization With Landowner Decisions", 
+    4
+   ], 
+   [
+    "Response Surface Method Using Sequential Sampling for Reliability-Based Design Optimization", 
+    4
+   ], 
+   [
+    "Exploring Marketing to Engineering Information Mapping in Mass Customization: A Presentation of Ideas, Challenges and Resulting Questions", 
+    4
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    4
+   ], 
+   [
+    "Optimization of Wind Farm Layout and Wind Turbine Geometry Using a Multi-Level Extended Pattern Search Algorithm That Accounts for Variation in Wind Shear Profile Shape", 
+    3
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    3
+   ], 
+   [
+    "Improved Clustering Algorithm for Design Structure Matrix", 
+    3
+   ], 
+   [
+    "Concept Analysis for Reconfigurable Products", 
+    3
+   ], 
+   [
+    "Customer-Driven Product Design Selection Using Web Based User-Generated Content", 
+    3
+   ], 
+   [
+    "A Function Based Approach for Product Integration", 
+    3
+   ], 
+   [
+    "Wind Farm Layout Optimization Considering Energy Generation and Noise Propagation", 
+    3
+   ], 
+   [
+    "Computation of the Usage Contexts Coverage of a Jigsaw With CSP Techniques", 
+    3
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    3
+   ], 
+   [
+    "A Framework for Choice Modeling in Usage Context-Based Design", 
+    3
+   ], 
+   [
+    "Predicting 5th and 95th Percentile Anthropometric Segment Lengths From Population Stature", 
+    3
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    3
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    3
+   ]
+  ], 
+  "2014": [
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    14
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    14
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    12
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    12
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    10
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    10
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    9
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    8
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    8
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    8
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    7
+   ], 
+   [
+    "Tolerance Allocation of Assemblies Using Fuzzy Comprehensive Evaluation and Decision Support Processes", 
+    7
+   ], 
+   [
+    "Wind Farm Layout Optimization Considering Energy Generation and Noise Propagation", 
+    6
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    6
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    6
+   ], 
+   [
+    "A New Model for Wind Farm Layout Optimization With Landowner Decisions", 
+    6
+   ], 
+   [
+    "An Importance Sampling Approach for Time-Dependent Reliability", 
+    5
+   ], 
+   [
+    "Improved Clustering Algorithm for Design Structure Matrix", 
+    5
+   ], 
+   [
+    "Probabilistic Inverse Simulation and its Application in Vehicle Accident Reconstruction", 
+    5
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    5
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    5
+   ], 
+   [
+    "Combined Plant and Controller Design Using Decomposition-Based Design Optimization and the Minimum Principle", 
+    5
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level for Non-Gaussian Distributions Using Bootstrap Method", 
+    5
+   ], 
+   [
+    "Exploring Marketing to Engineering Information Mapping in Mass Customization: A Presentation of Ideas, Challenges and Resulting Questions", 
+    5
+   ], 
+   [
+    "Studies on the Design of Reverse Osmosis Water Desalination Systems for Cost and Energy Efficiency", 
+    5
+   ], 
+   [
+    "Characterizing the Influence of Land Configuration on the Optimal Wind Farm Performance", 
+    5
+   ], 
+   [
+    "A Novel Second-Order Reliability Method (SORM) Using Non-Central or Generalized Chi-Squared Distributions", 
+    4
+   ], 
+   [
+    "Reconfigurable Products and Their Means of Reconfiguration", 
+    4
+   ], 
+   [
+    "Policy Design for Sustainable Energy Systems Considering Multiple Objectives and Incomplete Preferences", 
+    4
+   ], 
+   [
+    "Recent Advancements in Product Family Design and Platform-Based Product Development: A Literature Review", 
+    4
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    4
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    4
+   ], 
+   [
+    "Integrating Assembly Design, Sequence Optimization, and Advanced Path Planning", 
+    4
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    4
+   ], 
+   [
+    "A Genetic Algorithm Approach for Technology Characterization", 
+    4
+   ], 
+   [
+    "Exploring Heterogeneity of Customer Preference to Balance Commonality and Market Coverage", 
+    4
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    4
+   ], 
+   [
+    "Robust Design for Profit Maximization Under Uncertainty of Consumer Choice Model Parameters Using the Delta Method", 
+    4
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    4
+   ], 
+   [
+    "Parametric Modeling and Optimization of Chemical Vapor Deposition Process", 
+    4
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    4
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    4
+   ], 
+   [
+    "A Cutting Plane Method for Analytical Target Cascading With Augmented Lagrangian Coordination", 
+    4
+   ], 
+   [
+    "A Fast and Efficient Compact Packing Algorithm for Free-Form Objects", 
+    4
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    4
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    4
+   ], 
+   [
+    "Concept Opportunity Diagrams: A Visual Modeling Method to Find Multifunctional Design Concepts", 
+    4
+   ], 
+   [
+    "A Copula-Based Sampling Method for Data-Driven Prognostics and Health Management", 
+    4
+   ], 
+   [
+    "A Maximum Confidence Enhancement Based Sequential Sampling Scheme for Simulation-Based Design", 
+    3
+   ], 
+   [
+    "Casting and Milling Restrictions in Topology Optimization via Projection-Based Algorithms", 
+    3
+   ]
+  ], 
+  "2015": [
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    14
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    12
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    11
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    9
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    7
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    7
+   ], 
+   [
+    "Identifying Key Product Attributes and Their Importance Levels From Online Customer Reviews", 
+    7
+   ], 
+   [
+    "Extracting Consumer Preference From User-Generated Content Sources Using Classification", 
+    7
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    7
+   ], 
+   [
+    "Wave Energy Extraction Maximization in Irregular Ocean Waves Using Pseudospectral Methods", 
+    7
+   ], 
+   [
+    "A Maximum Confidence Enhancement Based Sequential Sampling Scheme for Simulation-Based Design", 
+    6
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    6
+   ], 
+   [
+    "Continuous Preference Trend Mining for Optimal Product Design With Multiple Profit Cycles", 
+    5
+   ], 
+   [
+    "A Function Based Approach for Product Integration", 
+    5
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    5
+   ], 
+   [
+    "Effective Random Field Characterization Considering Statistical Dependence for Probability Analysis and Design", 
+    5
+   ], 
+   [
+    "Ramp Forecasting Performance From Improved Short-Term Wind Power Forecasting", 
+    5
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    5
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    5
+   ], 
+   [
+    "Modeling of Geometric Variations for Line-Profiles", 
+    5
+   ], 
+   [
+    "An Importance Sampling Approach for Time-Dependent Reliability", 
+    4
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    4
+   ], 
+   [
+    "An Investigation of Sustainability, Preference, and Profitability in Design Optimization", 
+    4
+   ], 
+   [
+    "Time-Dependent Reliability of Dynamic Systems Using Subset Simulation With Splitting Over a Series of Correlated Time Intervals", 
+    4
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    4
+   ], 
+   [
+    "An Approach to Robust Process Design for Continuous Casting of Slab", 
+    4
+   ], 
+   [
+    "Numerically Stable Design Optimization With Price Competition", 
+    4
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    4
+   ], 
+   [
+    "Facilitating Design-by-Analogy: Development of a Complete Functional Vocabulary and Functional Vector Approach to Analogical Search", 
+    4
+   ], 
+   [
+    "Sequential Quadratic Programming for Robust Optimization With Interval Uncertainty", 
+    4
+   ], 
+   [
+    "On Design Preference Elicitation With Crowd Implicit Feedback", 
+    4
+   ], 
+   [
+    "Response Surface Method Using Sequential Sampling for Reliability-Based Design Optimization", 
+    4
+   ], 
+   [
+    "Design of Nonlinear Dynamic Systems Using Surrogate Models of Derivative Functions", 
+    4
+   ], 
+   [
+    "Early-Stage Design of Rheologically Complex Materials via Material Function Design Targets", 
+    4
+   ], 
+   [
+    "Casting and Milling Restrictions in Topology Optimization via Projection-Based Algorithms", 
+    3
+   ], 
+   [
+    "Multi-Objective Design and Tolerance Allocation for Single- and Multi-Level Systems", 
+    3
+   ], 
+   [
+    "An Improved Kriging Assisted Multi-Objective Genetic Algorithm", 
+    3
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    3
+   ], 
+   [
+    "Development and Application of a Patent-Based Design Around Process", 
+    3
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    3
+   ], 
+   [
+    "A Review of Recent Phase Transition Simulation Methods: Transition Path Search", 
+    3
+   ], 
+   [
+    "A Simulation Based Estimation of Crowd Ability and its Influence on Crowdsourced Evaluation of Design Concepts", 
+    3
+   ], 
+   [
+    "Wind Farm Layout Optimization Considering Energy Generation and Noise Propagation", 
+    3
+   ], 
+   [
+    "Optimization of Engine Torque Management Under Uncertainty for Vehicle Driveline Clunk Using Time-Dependent Metamodels", 
+    3
+   ], 
+   [
+    "Visualization Tool for Interpreting User Needs From User-Generated Content via Text Mining and Classification", 
+    3
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    3
+   ], 
+   [
+    "Assessing Long-Term Wind Conditions by Combining Different Measure-Correlate-Predict Algorithms", 
+    3
+   ], 
+   [
+    "Design Analytics in Consumer Product Design: A Simulated Study", 
+    3
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    3
+   ], 
+   [
+    "Multidisciplinary Design Optimization of Modular Industrial Robots", 
+    3
+   ]
+  ]
+ }, 
+ "yearly_nonself": {
+  "0": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    8
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    8
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    7
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    7
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    4
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    4
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    3
+   ], 
+   [
+    "Risk Management in Product Design: Current State, Conceptual Model and Future Research", 
+    3
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    3
+   ], 
+   [
+    "Multi-Stage Uncertainty Quantification for Verifying the Correctness of Complex System Designs", 
+    3
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    3
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    3
+   ], 
+   [
+    "Characterizing the Influence of Land Configuration on the Optimal Wind Farm Performance", 
+    3
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    3
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    3
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    2
+   ], 
+   [
+    "An Improved Kriging Assisted Multi-Objective Genetic Algorithm", 
+    2
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    2
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    2
+   ], 
+   [
+    "Development and Application of a Patent-Based Design Around Process", 
+    2
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    2
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    2
+   ], 
+   [
+    "Effective Random Field Characterization Considering Statistical Dependence for Probability Analysis and Design", 
+    2
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    2
+   ], 
+   [
+    "Plug-In Hybrid Vehicle Simulation: How Battery Weight and Charging Patterns Impact Cost, Fuel Consumption, and CO2 Emissions", 
+    2
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    2
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    2
+   ], 
+   [
+    "Topography Optimization of Shell Structures Under Transient Loading: A Comparative Approach", 
+    2
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    2
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    2
+   ], 
+   [
+    "Consistency Constraint Allocation in Augmented Lagrangian Coordination", 
+    2
+   ], 
+   [
+    "Parametric Modeling and Optimization of Chemical Vapor Deposition Process", 
+    2
+   ], 
+   [
+    "Combined Plant and Controller Design Using Decomposition-Based Design Optimization and the Minimum Principle", 
+    2
+   ], 
+   [
+    "Wave Energy Extraction Maximization in Irregular Ocean Waves Using Pseudospectral Methods", 
+    2
+   ], 
+   [
+    "Planning on Mistakes: An Approach to Incorporate Error Checking Into the Design Process", 
+    2
+   ], 
+   [
+    "A Fast and Efficient Compact Packing Algorithm for Free-Form Objects", 
+    2
+   ], 
+   [
+    "Sequential Quadratic Programming for Robust Optimization With Interval Uncertainty", 
+    2
+   ], 
+   [
+    "Design of Nonlinear Dynamic Systems Using Surrogate Models of Derivative Functions", 
+    2
+   ], 
+   [
+    "Turning Black-Box Into White Functions", 
+    1
+   ], 
+   [
+    "Euclidean Symmetry Detection From Scanned Meshes Based on a Combination of ICP and Region Growing Algorithms", 
+    1
+   ], 
+   [
+    "Optimization of Wind Farm Layout and Wind Turbine Geometry Using a Multi-Level Extended Pattern Search Algorithm That Accounts for Variation in Wind Shear Profile Shape", 
+    1
+   ], 
+   [
+    "Preference Construction, Sequential Decision Making, and Trade Space Exploration", 
+    1
+   ], 
+   [
+    "An Importance Sampling Approach for Time-Dependent Reliability", 
+    1
+   ], 
+   [
+    "A Novel Second-Order Reliability Method (SORM) Using Non-Central or Generalized Chi-Squared Distributions", 
+    1
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    1
+   ], 
+   [
+    "A Method for Visualizing the Relations Between Grammar Rules, Performance Objectives and Search Space Exploration in Grammar-Based Computational Design Synthesis", 
+    1
+   ], 
+   [
+    "Concurrent Surrogate Model Selection (COSMOS) Based on Predictive Estimation of Model Fidelity", 
+    1
+   ], 
+   [
+    "Topology Optimization of Piezoelectric Energy Harvesting Strap Buckle", 
+    1
+   ], 
+   [
+    "Sampling-Based RBDO Using Probabilistic Sensitivity Analysis and Virtual Support Vector Machine", 
+    1
+   ]
+  ], 
+  "2002": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ]
+  ], 
+  "2003": [], 
+  "2004": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    2
+   ]
+  ], 
+  "2005": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    1
+   ]
+  ], 
+  "2006": [], 
+  "2007": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    2
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    1
+   ]
+  ], 
+  "2008": [
+   [
+    "Trending Mining for Predictive Product Design", 
+    1
+   ], 
+   [
+    "Relating Two Domains via a Third: An Approach to Overcome Ambiguous Attributions Using Multiple Domain Matrices", 
+    1
+   ], 
+   [
+    "Contact Analysis Between a Moving Solid and the Boundary of Its Swept Volume", 
+    1
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    1
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    1
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    1
+   ], 
+   [
+    "Exploring Differences in Preference Heterogeneity Representation and Their Influence in Product Family Design", 
+    1
+   ], 
+   [
+    "Assembly and Variety Considerations During Conceptual Design", 
+    0
+   ], 
+   [
+    "Selection of Copula to Generate Input Joint CDF for RBDO", 
+    0
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    0
+   ], 
+   [
+    "Generative Design and CNC Fabrication Using Shape Grammars", 
+    0
+   ], 
+   [
+    "An Approach to Automate Concept Generation of Sheet Metal Parts Based on Manufacturing Operations", 
+    0
+   ], 
+   [
+    "A General Approach to Robustness Assessment for Multidisciplinary Systems", 
+    0
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    0
+   ], 
+   [
+    "Evolutive Design of Car Silhouettes", 
+    0
+   ]
+  ], 
+  "2009": [
+   [
+    "Should Designers Worry About Market Systems?", 
+    6
+   ], 
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    4
+   ], 
+   [
+    "Relating Two Domains via a Third: An Approach to Overcome Ambiguous Attributions Using Multiple Domain Matrices", 
+    3
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    3
+   ], 
+   [
+    "Optimal Kinematics Design of an Industrial Robot Family", 
+    3
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    3
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ], 
+   [
+    "Multi-Objective Optimization of Product Configuration", 
+    2
+   ], 
+   [
+    "A General Approach to Robustness Assessment for Multidisciplinary Systems", 
+    2
+   ], 
+   [
+    "Using Multiple Surrogates for Minimization of the RMS Error in Meta-Modeling", 
+    2
+   ], 
+   [
+    "A Fast and Efficient Compact Packing Algorithm for Free-Form Objects", 
+    2
+   ], 
+   [
+    "Choice Model Specification in Market-Based Engineering Design", 
+    2
+   ], 
+   [
+    "Shape Optimization of a Camoid Follower Surface", 
+    2
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    1
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    1
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    1
+   ], 
+   [
+    "Assessing Functional and Shape Differentiation Within a Family of Products", 
+    1
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    1
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    1
+   ], 
+   [
+    "Design of Compliant Thermal Actuators Using Structural Optimization Based on the Level Set Method", 
+    1
+   ], 
+   [
+    "A Multiscale Design Approach With Random Field Representation of Material Uncertainty", 
+    1
+   ], 
+   [
+    "Designing Embodiment Design Processes Using a Value-of-Information-Based Approach With Applications for Integrated Product and Materials Design", 
+    1
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    1
+   ], 
+   [
+    "Product Family Design: Strategic Principles to Choose Between Product-Driven and Platform-Driven Processes", 
+    1
+   ], 
+   [
+    "Predicting 5th and 95th Percentile Anthropometric Segment Lengths From Population Stature", 
+    1
+   ], 
+   [
+    "A Deterministic Lagrangian-Based Global Optimization Approach for Large Scale Decomposable Problems", 
+    1
+   ], 
+   [
+    "Elicitation and Modeling of Customers’ Preferences in Industrial Design: A Comparative Study on Vehicle Front End", 
+    1
+   ], 
+   [
+    "Improving the Performance of Visual Steering Commands for Multi-Dimensional Trade Space Exploration", 
+    1
+   ], 
+   [
+    "A Measure of the Information Loss for Inspection Point Reduction", 
+    1
+   ], 
+   [
+    "The Application of Product Platform Design to the Reuse of Electronic Components Subject to Long-Term Supply Chain Disruptions", 
+    1
+   ], 
+   [
+    "A Proposed Taxonomy for Physical Prototypes: Structure and Validation", 
+    1
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    0
+   ], 
+   [
+    "Selection of Copula to Generate Input Joint CDF for RBDO", 
+    0
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    0
+   ], 
+   [
+    "An Improved Initial Population Strategy for Compliant Mechanism Designs Using Evolutionary Optimization", 
+    0
+   ], 
+   [
+    "A Review of Recent Phase Transition Simulation Methods: Transition Path Search", 
+    0
+   ], 
+   [
+    "Generative Design and CNC Fabrication Using Shape Grammars", 
+    0
+   ], 
+   [
+    "Feature-Based Crystal Construction in Computer-Aided Nano-Design", 
+    0
+   ], 
+   [
+    "Optimal Product Design Under Price Competition", 
+    0
+   ], 
+   [
+    "Finite Element Model Updating Approach to Damage Identification in Beams Using Particle Swarm Optimization", 
+    0
+   ], 
+   [
+    "Uncertainty Analysis of Damage Evolution Computed Through Microstructure-Property Relations", 
+    0
+   ], 
+   [
+    "Topology Optimization of a MEMS Resonator Using Hybrid Fuzzy Techniques", 
+    0
+   ], 
+   [
+    "Energy Characteristic State Model for Automated Conceptual Design of Hydraulic System", 
+    0
+   ], 
+   [
+    "Functional Part Families and Design Change for Mechanical Assemblies", 
+    0
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    0
+   ], 
+   [
+    "Consistency Constraint Allocation in Augmented Lagrangian Coordination", 
+    0
+   ], 
+   [
+    "Design Automation Tools as a Support for Knowledge Management in Topology Optimization", 
+    0
+   ], 
+   [
+    "Variation Analysis of Position, Velocity, and Acceleration of Two-Dimensional Mechanisms by the Direct Linearization Method", 
+    0
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    0
+   ]
+  ], 
+  "2010": [
+   [
+    "Should Designers Worry About Market Systems?", 
+    12
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    4
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    4
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    4
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    4
+   ], 
+   [
+    "Optimal Product Design Under Price Competition", 
+    3
+   ], 
+   [
+    "Choice Model Specification in Market-Based Engineering Design", 
+    3
+   ], 
+   [
+    "A Hybrid Models Deformation Tool for Free-Form Shapes Manipulation", 
+    3
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    2
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level Under Input Model Uncertainty", 
+    2
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    2
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    2
+   ], 
+   [
+    "A Preliminary Study of Novice and Expert Users’ Decision-Making Procedures During Visual Trade Space Exploration", 
+    2
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    2
+   ], 
+   [
+    "An Industrial Trial of a Set-Based Approach to Collaborative Design", 
+    2
+   ], 
+   [
+    "Consistency Constraint Allocation in Augmented Lagrangian Coordination", 
+    2
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    2
+   ], 
+   [
+    "A Measure of the Information Loss for Inspection Point Reduction", 
+    2
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Direct 3D Layer Metal Deposition and Toolpath Generation", 
+    1
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    1
+   ], 
+   [
+    "Design Achievement Model for Planning Creative and Concurrent Design Process", 
+    1
+   ], 
+   [
+    "Reducible Uncertain Interval Design (RUID) by Kriging Meta-Model Assisted Multi-Objective Optimization", 
+    1
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    1
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    1
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    1
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    1
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    1
+   ], 
+   [
+    "Optimal Kinematics Design of an Industrial Robot Family", 
+    1
+   ], 
+   [
+    "Multi-Objective Optimization of Product Configuration", 
+    1
+   ], 
+   [
+    "Contact Analysis Between a Moving Solid and the Boundary of Its Swept Volume", 
+    1
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    1
+   ], 
+   [
+    "Designing Product Families With Competition: A Design for Market Systems Approach", 
+    1
+   ], 
+   [
+    "Uncertainty Analysis of Damage Evolution Computed Through Microstructure-Property Relations", 
+    1
+   ], 
+   [
+    "Designing Embodiment Design Processes Using a Value-of-Information-Based Approach With Applications for Integrated Product and Materials Design", 
+    1
+   ], 
+   [
+    "Plug-In Hybrid Vehicle Simulation: How Battery Weight and Charging Patterns Impact Cost, Fuel Consumption, and CO2 Emissions", 
+    1
+   ], 
+   [
+    "Validation of Computational Fluid Structure Interaction Models for Shape Optimization Under Blast Impact", 
+    1
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    1
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    1
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    1
+   ], 
+   [
+    "A General Approach to Robustness Assessment for Multidisciplinary Systems", 
+    1
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    1
+   ], 
+   [
+    "Port-Based Ontology Modeling for Product Conceptual Design", 
+    1
+   ], 
+   [
+    "Combined Plant and Controller Design Using Decomposition-Based Design Optimization and the Minimum Principle", 
+    1
+   ], 
+   [
+    "A Deterministic Lagrangian-Based Global Optimization Approach for Large Scale Decomposable Problems", 
+    1
+   ], 
+   [
+    "Evolutive Design of Car Silhouettes", 
+    1
+   ], 
+   [
+    "Reliable Design Optimization Under Aleatory and Epistemic Uncertainties", 
+    1
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    1
+   ], 
+   [
+    "Additive Manufacturing Based on Multiple Calibrated Projectors and Its Mask Image Planning", 
+    1
+   ], 
+   [
+    "Turning Black-Box Into White Functions", 
+    0
+   ]
+  ], 
+  "2011": [
+   [
+    "Should Designers Worry About Market Systems?", 
+    12
+   ], 
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    8
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    7
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    6
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    5
+   ], 
+   [
+    "Trending Mining for Predictive Product Design", 
+    4
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    4
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    4
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    4
+   ], 
+   [
+    "Evolutive Design of Car Silhouettes", 
+    4
+   ], 
+   [
+    "Selection of Copula to Generate Input Joint CDF for RBDO", 
+    3
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    3
+   ], 
+   [
+    "A Strategic Module-Based Platform Design Method for Developing Customized Products in Dynamic and Uncertain Market Environments", 
+    3
+   ], 
+   [
+    "Choice Model Specification in Market-Based Engineering Design", 
+    3
+   ], 
+   [
+    "The Application of Product Platform Design to the Reuse of Electronic Components Subject to Long-Term Supply Chain Disruptions", 
+    3
+   ], 
+   [
+    "Euclidean Symmetry Detection From Scanned Meshes Based on a Combination of ICP and Region Growing Algorithms", 
+    2
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Design Preference Elicitation, Derivative-Free Optimization and Support Vector Machine Search", 
+    2
+   ], 
+   [
+    "Requirement Change Propagation Prediction Approach: Results From an Industry Case Study", 
+    2
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    2
+   ], 
+   [
+    "Development and Application of a Patent-Based Design Around Process", 
+    2
+   ], 
+   [
+    "Design of an Extended-Range Electric Vehicle for the EcoCAR Challenge", 
+    2
+   ], 
+   [
+    "Assessing Functional and Shape Differentiation Within a Family of Products", 
+    2
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ], 
+   [
+    "Knowledge Management for Fault Tree Analysis Based on Quantity Dimension Indexing", 
+    2
+   ], 
+   [
+    "Automated Design of an Industrial Robot Family", 
+    2
+   ], 
+   [
+    "An Industrial Trial of a Set-Based Approach to Collaborative Design", 
+    2
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    2
+   ], 
+   [
+    "Optimal Product Design Under Price Competition", 
+    2
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    2
+   ], 
+   [
+    "Product Family Design: Strategic Principles to Choose Between Product-Driven and Platform-Driven Processes", 
+    2
+   ], 
+   [
+    "A Pareto Approach to Aligning Public and Private Objectives in Vehicle Design", 
+    2
+   ], 
+   [
+    "A Framework for Choice Modeling in Usage Context-Based Design", 
+    2
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    2
+   ], 
+   [
+    "A Deterministic Lagrangian-Based Global Optimization Approach for Large Scale Decomposable Problems", 
+    2
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    2
+   ], 
+   [
+    "Planning on Mistakes: An Approach to Incorporate Error Checking Into the Design Process", 
+    2
+   ], 
+   [
+    "An Engineering Design Strategy for Reconfigurable Products That Support Poverty Alleviation", 
+    2
+   ], 
+   [
+    "Universal Product Family Design Valuation in an Uncertain Market Environment", 
+    1
+   ], 
+   [
+    "Designing a Product Package Platform", 
+    1
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    1
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    1
+   ], 
+   [
+    "Plug-In Hybrid Electric Vehicle Battery Selection for Optimum Economic and Environmental Benefits Using Pareto Set Points and PSAT™", 
+    1
+   ], 
+   [
+    "An Efficient Tradeoff Approach for Topology Optimization With Manufacturing Constraints", 
+    1
+   ], 
+   [
+    "Safety of Spur Gear Design Under Non-Ideal Conditions With Uncertainty", 
+    1
+   ], 
+   [
+    "Reducible Uncertain Interval Design (RUID) by Kriging Meta-Model Assisted Multi-Objective Optimization", 
+    1
+   ], 
+   [
+    "Updating Predictive Models: Calibration, Bias Correction and Identifiability", 
+    1
+   ], 
+   [
+    "System RBDO With Correlated Variables Using Probabilistic Re-Analysis and Local Metamodels", 
+    1
+   ], 
+   [
+    "Automatically Generating Form Concepts According to Consumer Preference: A Shape Grammar Implementation With Software Agents", 
+    1
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    1
+   ]
+  ], 
+  "2012": [
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    11
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    9
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    8
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    7
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    6
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    6
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    6
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    5
+   ], 
+   [
+    "Evaluating the Performance of Visual Steering Commands for User-Guided Pareto Frontier Sampling During Trade Space Exploration", 
+    5
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    5
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    4
+   ], 
+   [
+    "A Cutting Plane Method for Analytical Target Cascading With Augmented Lagrangian Coordination", 
+    4
+   ], 
+   [
+    "Reliable Design Optimization Under Aleatory and Epistemic Uncertainties", 
+    4
+   ], 
+   [
+    "Turning Black-Box Into White Functions", 
+    3
+   ], 
+   [
+    "Reconfigurable Products and Their Means of Reconfiguration", 
+    3
+   ], 
+   [
+    "Strain-Based Topology Optimization for Crashworthiness Using Hybrid Cellular Automata", 
+    3
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    3
+   ], 
+   [
+    "Optimization of Tool Handle Shape for a Target User Population", 
+    3
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    3
+   ], 
+   [
+    "Multi-Objective Optimization of Product Configuration", 
+    3
+   ], 
+   [
+    "Improving Multi-Objective Robust Optimization Under Interval Uncertainty Using Worst Possible Point Constraint Cuts", 
+    3
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    3
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level for Non-Gaussian Distributions Using Bootstrap Method", 
+    3
+   ], 
+   [
+    "Multidisciplinary Design Optimization of Modular Industrial Robots", 
+    3
+   ], 
+   [
+    "Object-Oriented Modeling of Industrial Manipulators With Application to Energy Optimal Trajectory Scaling", 
+    3
+   ], 
+   [
+    "Concept Opportunity Diagrams: A Visual Modeling Method to Find Multifunctional Design Concepts", 
+    3
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    3
+   ], 
+   [
+    "Universal Product Family Design Valuation in an Uncertain Market Environment", 
+    2
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    2
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    2
+   ], 
+   [
+    "Customer Driven Optimal Design for Convergence Products", 
+    2
+   ], 
+   [
+    "Interactive Modular Optimization Strategy for Layout Problems", 
+    2
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    2
+   ], 
+   [
+    "A Preliminary Study of Novice and Expert Users’ Decision-Making Procedures During Visual Trade Space Exploration", 
+    2
+   ], 
+   [
+    "Feature-Based Crystal Construction in Computer-Aided Nano-Design", 
+    2
+   ], 
+   [
+    "A Sequential Linearization Technique for Analytical Target Cascading", 
+    2
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    2
+   ], 
+   [
+    "Design of Compliant Thermal Actuators Using Structural Optimization Based on the Level Set Method", 
+    2
+   ], 
+   [
+    "Mass Customization: A Review of the Paradigm Across Marketing, Engineering and Distribution Domains", 
+    2
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    2
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Evaluating Genetic Algorithms on Welding Sequence Optimization With Respect to Dimensional Variation and Cycle Time", 
+    2
+   ], 
+   [
+    "A Strategic Module-Based Platform Design Method for Developing Customized Products in Dynamic and Uncertain Market Environments", 
+    2
+   ], 
+   [
+    "Strategic Product Design Decisions for Uncertain Market Systems Using an Agent Based Approach", 
+    2
+   ], 
+   [
+    "A Port-Based Agent Approach to Guiding Concept Generation for Customizing Modular Varieties", 
+    2
+   ], 
+   [
+    "Evolutive Design of Car Silhouettes", 
+    2
+   ], 
+   [
+    "An Asymmetric Dimension-Adaptive Tensor-Product Method for Reliability Analysis", 
+    2
+   ], 
+   [
+    "Automated Concept Generation Using Branched Functional Models", 
+    2
+   ], 
+   [
+    "Response Surface Method Using Sequential Sampling for Reliability-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Supporting Trade Space Exploration of Multi-Dimensional Data With Interactive Multi-Scale Nested Clustering and Aggregation", 
+    2
+   ]
+  ], 
+  "2013": [
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    11
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    11
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    9
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    7
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    6
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    6
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    6
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    5
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    5
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    5
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    5
+   ], 
+   [
+    "Tolerance Allocation of Assemblies Using Fuzzy Comprehensive Evaluation and Decision Support Processes", 
+    5
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    4
+   ], 
+   [
+    "Multi-Objective Design and Tolerance Allocation for Single- and Multi-Level Systems", 
+    4
+   ], 
+   [
+    "An Improved Kriging Assisted Multi-Objective Genetic Algorithm", 
+    4
+   ], 
+   [
+    "Risk Management in Product Design: Current State, Conceptual Model and Future Research", 
+    4
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    4
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    4
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    4
+   ], 
+   [
+    "A New Model for Wind Farm Layout Optimization With Landowner Decisions", 
+    4
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    4
+   ], 
+   [
+    "Concept Analysis for Reconfigurable Products", 
+    3
+   ], 
+   [
+    "Requirement Change Propagation Prediction Approach: Results From an Industry Case Study", 
+    3
+   ], 
+   [
+    "Validating Designs Through Sequential Simulation-Based Optimization", 
+    3
+   ], 
+   [
+    "Customer-Driven Product Design Selection Using Web Based User-Generated Content", 
+    3
+   ], 
+   [
+    "Optimization of Tool Handle Shape for a Target User Population", 
+    3
+   ], 
+   [
+    "A Function Based Approach for Product Integration", 
+    3
+   ], 
+   [
+    "Wind Farm Layout Optimization Considering Energy Generation and Noise Propagation", 
+    3
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    3
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    3
+   ], 
+   [
+    "Learning Stylistic Desires and Generating Preferred Designs of Consumers Using Neural Networks and Genetic Algorithms", 
+    3
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level for Non-Gaussian Distributions Using Bootstrap Method", 
+    3
+   ], 
+   [
+    "An Efficient Re-Analysis Methodology for Probabilistic Vibration of Large-Scale Structures", 
+    3
+   ], 
+   [
+    "An Engineering Design Strategy for Reconfigurable Products That Support Poverty Alleviation", 
+    3
+   ], 
+   [
+    "Response Surface Method Using Sequential Sampling for Reliability-Based Design Optimization", 
+    3
+   ], 
+   [
+    "Exploring Marketing to Engineering Information Mapping in Mass Customization: A Presentation of Ideas, Challenges and Resulting Questions", 
+    3
+   ], 
+   [
+    "Optimization of Wind Farm Layout and Wind Turbine Geometry Using a Multi-Level Extended Pattern Search Algorithm That Accounts for Variation in Wind Shear Profile Shape", 
+    2
+   ], 
+   [
+    "A Filter-Based Sample Average SQP for Optimization Problems With Highly Nonlinear Probabilistic Constraints", 
+    2
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Understanding Rural Village Energy Needs and Design Constraints", 
+    2
+   ], 
+   [
+    "Design Preference Elicitation, Derivative-Free Optimization and Support Vector Machine Search", 
+    2
+   ], 
+   [
+    "Improved Clustering Algorithm for Design Structure Matrix", 
+    2
+   ], 
+   [
+    "Reconfigurable Products and Their Means of Reconfiguration", 
+    2
+   ], 
+   [
+    "Safety of Spur Gear Design Under Non-Ideal Conditions With Uncertainty", 
+    2
+   ], 
+   [
+    "Modular Product Configuration: An Automatic Tool for Eliciting Design Knowledge From Parametric CAD Models", 
+    2
+   ], 
+   [
+    "Customer Driven Optimal Design for Convergence Products", 
+    2
+   ], 
+   [
+    "Recent Advancements in Product Family Design and Platform-Based Product Development: A Literature Review", 
+    2
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    2
+   ], 
+   [
+    "Topology Optimization of Piezoelectric Energy Harvesting Devices Subjected to Stochastic Excitation", 
+    2
+   ], 
+   [
+    "Symmetry Plane Detection for 3D CAD Volumes", 
+    2
+   ]
+  ], 
+  "2014": [
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    14
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    11
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    10
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    9
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    8
+   ], 
+   [
+    "Should Designers Worry About Market Systems?", 
+    8
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    8
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    7
+   ], 
+   [
+    "Tolerance Allocation of Assemblies Using Fuzzy Comprehensive Evaluation and Decision Support Processes", 
+    7
+   ], 
+   [
+    "Optimal Experimental Design of Human Appraisals for Modeling Consumer Preferences in Engineering Design", 
+    6
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    6
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    6
+   ], 
+   [
+    "Improving Identifiability in Model Calibration Using Multiple Responses", 
+    6
+   ], 
+   [
+    "A New Model for Wind Farm Layout Optimization With Landowner Decisions", 
+    6
+   ], 
+   [
+    "An Importance Sampling Approach for Time-Dependent Reliability", 
+    5
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    5
+   ], 
+   [
+    "Characterizing the Influence of Land Configuration on the Optimal Wind Farm Performance", 
+    5
+   ], 
+   [
+    "Improved Clustering Algorithm for Design Structure Matrix", 
+    4
+   ], 
+   [
+    "Reconfigurable Products and Their Means of Reconfiguration", 
+    4
+   ], 
+   [
+    "Probabilistic Inverse Simulation and its Application in Vehicle Accident Reconstruction", 
+    4
+   ], 
+   [
+    "Recent Advancements in Product Family Design and Platform-Based Product Development: A Literature Review", 
+    4
+   ], 
+   [
+    "Integrating Assembly Design, Sequence Optimization, and Advanced Path Planning", 
+    4
+   ], 
+   [
+    "Wind Farm Layout Optimization Considering Energy Generation and Noise Propagation", 
+    4
+   ], 
+   [
+    "Transformation Facilitators: A Quantitative Analysis of Reconfigurable Products and Their Characteristics", 
+    4
+   ], 
+   [
+    "Product Realization in the Age of Mass Collaboration", 
+    4
+   ], 
+   [
+    "Robust Design for Profit Maximization Under Uncertainty of Consumer Choice Model Parameters Using the Delta Method", 
+    4
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    4
+   ], 
+   [
+    "Making the Most Out of Surrogate Models: Tricks of the Trade", 
+    4
+   ], 
+   [
+    "Reliability-Based Design Optimization With Confidence Level for Non-Gaussian Distributions Using Bootstrap Method", 
+    4
+   ], 
+   [
+    "A Modified Reliability Index Approach for Reliability-Based Design Optimization", 
+    4
+   ], 
+   [
+    "Concept Opportunity Diagrams: A Visual Modeling Method to Find Multifunctional Design Concepts", 
+    4
+   ], 
+   [
+    "A Copula-Based Sampling Method for Data-Driven Prognostics and Health Management", 
+    4
+   ], 
+   [
+    "Customer Driven Optimal Design for Convergence Products", 
+    3
+   ], 
+   [
+    "Identifying Key Product Attributes and Their Importance Levels From Online Customer Reviews", 
+    3
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    3
+   ], 
+   [
+    "A Simulation Based Estimation of Crowd Ability and its Influence on Crowdsourced Evaluation of Design Concepts", 
+    3
+   ], 
+   [
+    "An Industrial Trial of a Set-Based Approach to Collaborative Design", 
+    3
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    3
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    3
+   ], 
+   [
+    "Combined Plant and Controller Design Using Decomposition-Based Design Optimization and the Minimum Principle", 
+    3
+   ], 
+   [
+    "A Cutting Plane Method for Analytical Target Cascading With Augmented Lagrangian Coordination", 
+    3
+   ], 
+   [
+    "A Fast and Efficient Compact Packing Algorithm for Free-Form Objects", 
+    3
+   ], 
+   [
+    "An Asymmetric Dimension-Adaptive Tensor-Product Method for Reliability Analysis", 
+    3
+   ], 
+   [
+    "Exploring Marketing to Engineering Information Mapping in Mass Customization: A Presentation of Ideas, Challenges and Resulting Questions", 
+    3
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    3
+   ], 
+   [
+    "Studies on the Design of Reverse Osmosis Water Desalination Systems for Cost and Energy Efficiency", 
+    3
+   ], 
+   [
+    "Time-Dependent Reliability Analysis by a Sampling Approach to Extreme Values of Stochastic Processes", 
+    3
+   ], 
+   [
+    "A Proposed Taxonomy for Physical Prototypes: Structure and Validation", 
+    3
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Concept Analysis for Reconfigurable Products", 
+    2
+   ]
+  ], 
+  "2015": [
+   [
+    "Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties", 
+    14
+   ], 
+   [
+    "An Extended Pattern Search Approach to Wind Farm Layout Optimization", 
+    11
+   ], 
+   [
+    "Identifying Key Product Attributes and Their Importance Levels From Online Customer Reviews", 
+    7
+   ], 
+   [
+    "Extracting Consumer Preference From User-Generated Content Sources Using Classification", 
+    7
+   ], 
+   [
+    "Co-Design of an Active Suspension Using Simultaneous Dynamic Optimization", 
+    7
+   ], 
+   [
+    "Sampling-Based Stochastic Sensitivity Analysis Using Score Functions for RBDO Problems With Correlated Random Variables", 
+    6
+   ], 
+   [
+    "Wave Energy Extraction Maximization in Irregular Ocean Waves Using Pseudospectral Methods", 
+    6
+   ], 
+   [
+    "A Function Based Approach for Product Integration", 
+    5
+   ], 
+   [
+    "Resilience-Driven System Design of Complex Engineered Systems", 
+    5
+   ], 
+   [
+    "Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design", 
+    5
+   ], 
+   [
+    "An Importance Sampling Approach for Time-Dependent Reliability", 
+    4
+   ], 
+   [
+    "Design for Lifecycle Cost Using Time-Dependent Reliability", 
+    4
+   ], 
+   [
+    "An Investigation of Sustainability, Preference, and Profitability in Design Optimization", 
+    4
+   ], 
+   [
+    "Response Surface Method Using Sequential Sampling for Reliability-Based Design Optimization", 
+    4
+   ], 
+   [
+    "A Maximum Confidence Enhancement Based Sequential Sampling Scheme for Simulation-Based Design", 
+    3
+   ], 
+   [
+    "Modeling Variability in Torso Shape for Chair and Seat Design", 
+    3
+   ], 
+   [
+    "Multi-Objective Design and Tolerance Allocation for Single- and Multi-Level Systems", 
+    3
+   ], 
+   [
+    "Continuous Preference Trend Mining for Optimal Product Design With Multiple Profit Cycles", 
+    3
+   ], 
+   [
+    "An Improved Kriging Assisted Multi-Objective Genetic Algorithm", 
+    3
+   ], 
+   [
+    "Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix", 
+    3
+   ], 
+   [
+    "Bayesian Reliability Analysis With Evolving, Insufficient, and Subjective Data Sets", 
+    3
+   ], 
+   [
+    "Development and Application of a Patent-Based Design Around Process", 
+    3
+   ], 
+   [
+    "A Simulation Based Estimation of Crowd Ability and its Influence on Crowdsourced Evaluation of Design Concepts", 
+    3
+   ], 
+   [
+    "Effective Random Field Characterization Considering Statistical Dependence for Probability Analysis and Design", 
+    3
+   ], 
+   [
+    "Optimizing the Unrestricted Placement of Turbines of Differing Rotor Diameters in a Wind Farm for Maximum Power Generation", 
+    3
+   ], 
+   [
+    "Visualization Tool for Interpreting User Needs From User-Generated Content via Text Mining and Classification", 
+    3
+   ], 
+   [
+    "Ramp Forecasting Performance From Improved Short-Term Wind Power Forecasting", 
+    3
+   ], 
+   [
+    "Improving Cost Effectiveness in an Existing Product Line Using Component Product Platforms", 
+    3
+   ], 
+   [
+    "Design Analytics in Consumer Product Design: A Simulated Study", 
+    3
+   ], 
+   [
+    "A New Sparse Grid Based Method for Uncertainty Propagation", 
+    3
+   ], 
+   [
+    "Sensitivity Analyses of FORM-Based and DRM-Based Performance Measure Approach for Reliability-Based Design Optimization", 
+    3
+   ], 
+   [
+    "A New Model for Wind Farm Layout Optimization With Landowner Decisions", 
+    3
+   ], 
+   [
+    "Tolerance Allocation of Assemblies Using Fuzzy Comprehensive Evaluation and Decision Support Processes", 
+    3
+   ], 
+   [
+    "Optimization Algorithms and ODE’s in MDO", 
+    3
+   ], 
+   [
+    "Early-Stage Design of Rheologically Complex Materials via Material Function Design Targets", 
+    3
+   ], 
+   [
+    "Modeling of Geometric Variations for Line-Profiles", 
+    3
+   ], 
+   [
+    "Optimal Component Sizing and Forward-Looking Dispatch of an Electrical Microgrid for Energy Storage Planning", 
+    3
+   ], 
+   [
+    "Constraint Management of Reduced Representation Variables in Decomposition-Based Design Optimization", 
+    2
+   ], 
+   [
+    "Casting and Milling Restrictions in Topology Optimization via Projection-Based Algorithms", 
+    2
+   ], 
+   [
+    "Probabilistic Inverse Simulation and its Application in Vehicle Accident Reconstruction", 
+    2
+   ], 
+   [
+    "Towards Rules for Functional Composition", 
+    2
+   ], 
+   [
+    "A Rational Design Approach to Gaussian Process Modeling for Variable Fidelity Models", 
+    2
+   ], 
+   [
+    "Identification of Platform Variables in Product Family Design Using Sensitivity Analysis", 
+    2
+   ], 
+   [
+    "Recent Advancements in Product Family Design and Platform-Based Product Development: A Literature Review", 
+    2
+   ], 
+   [
+    "Adaptive-Sparse Polynomial Chaos Expansion for Reliability Analysis and Design of Complex Engineering Systems", 
+    2
+   ], 
+   [
+    "Advancing Design Through the Creation and Visualization of Virtual Population Representing U.S. Civilians", 
+    2
+   ], 
+   [
+    "Topology Optimization of Spacers for Maximizing Permeate Flux on Membrane Surface in Reverse Osmosis Channel", 
+    2
+   ], 
+   [
+    "Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator", 
+    2
+   ], 
+   [
+    "Towards Adaptable Architecture", 
+    2
+   ], 
+   [
+    "Product Family Commonality Selection Through Interactive Visualization", 
+    2
+   ]
+  ]
+ }
+}
