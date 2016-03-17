@@ -4,6 +4,10 @@ import os
 import re
 import codecs
 from collections import Counter
+from termcolor import colored
+import sys  
+reload(sys)  
+sys.setdefaultencoding('utf-8')
 
 '''
 paper_file = sys.argv[1]
@@ -53,6 +57,14 @@ def normalize(name):
   name = re.sub('\s+',' ',name)
   return name.strip()
 
+def first_last(name):
+  name = normalize(name)
+  name_parts = name.split(' ')
+  initial = ''.join([x[0] for x in name_parts])
+  if len(initial)==1:
+    return initial
+  return '{}{}'.format(initial[0],initial[-1])
+
 def is_same_person(c_auth, p_auth):
   try:
     c_auth.decode('ascii')
@@ -61,14 +73,16 @@ def is_same_person(c_auth, p_auth):
     return False
   cname = normalize(c_auth)
   pname = normalize(p_auth)
-  distance = dist(cname,pname)
-  #print cname, pname, distance
-  if distance > 2:
-    return False
   cname_parts = cname.split(' ')
   pname_parts = pname.split(' ')
   cinitial = ''.join([x[0] for x in cname_parts])
   pinitial = ''.join([x[0] for x in pname_parts])
+  if(cinitial[0]!=pinitial[0] and cinitial[-1]!=pinitial[-1]):
+    return False
+  distance = dist(cname,pname)
+  #print cname, pname, distance
+  if distance > 2:
+    return False
   distance = dist(cinitial,pinitial)
   thresh = float(min(len(cname_parts),len(pname_parts)))/2.0
   #print cinitial, pinitial, distance, thresh
@@ -86,19 +100,41 @@ def test_self(c_auths, p_auths):
         return True
   return False
 
+def test_dac(author, dac_authors):
+  same_initial = False
+  for da in dac_authors:
+    if first_last(da) == first_last(author):
+      same_initial = True
+    elif same_initial:
+      return False
+    if same_initial and is_same_person(author,da):
+      return True
+  return False
+
 def main():
   paper_file = sys.argv[1]
   citation_file = sys.argv[2]
-  outfile = sys.argv[3]
+  outfile = 'citationStats.json'
   with codecs.open(paper_file,'r',encoding='utf-8') as papers, codecs.open(citation_file,'r',encoding='utf-8') as citations, codecs.open(outfile,'w',encoding='utf-8') as outfile:
     papers = json.load(papers)
     citations = json.load(citations)
     papers_dict = {p['Title']:p for p in papers}
     citations_dict = {c['Title']:c for c in citations}
     all_stats = []
+    dac_authors = []
     print len(papers_dict)
     print len(citations_dict)
     for title,paper in papers_dict.items():
+      dac_authors.extend(paper['Authors'])
+    dac_authors = list(set(dac_authors))
+    dac_authors = sorted(dac_authors,key=lambda name:first_last(name))
+    json.dump(dac_authors, codecs.open('dac_authors.json','w',encoding='utf-8'),indent=4) 
+    #exit(0)
+
+    i=0
+    for title,paper in papers_dict.items():
+      print colored('{} {}'.format(i,title),'red')
+      i+=1
       #if title !="A Fast and Efficient Compact Packing Algorithm for Free-Form Objects":
         #continue
       try:
@@ -119,12 +155,16 @@ def main():
                 'organizations':{},
                 'journals':{},
                 'institutions':{},
-                'authors':{}
+                'authors':[],
+                'total_authors':0,
+                'non_dac_authors':0
+
                 }
               }
       entry['Title'] = title
       entry['Year'] = paper['Year']
       entry['Authors'] = paper['Authors']
+      
       try:
         entry['Topics'] = paper['Topics']
         entry['Broad_Topic'] = paper['Broad_Topic']
@@ -132,6 +172,7 @@ def main():
         pass
       jour_dict = {}
       org_dict = {}
+      author_list = []
       for citation in citations:
         entry['CitationInfo']['total'] = entry['CitationInfo']['total'] + 1
         c_title = citation['title']
@@ -174,12 +215,18 @@ def main():
             entry['CitationInfo']['institutions'][c_inst] = entry['CitationInfo']['institutions'][c_inst] + 1 
         entry['CitationInfo']['yearly'][c_year].append(c_title)
         try:
+          
           for author in c_info['author']:
             author = author.strip().decode('UTF-8', errors = 'replace')
-            if author not in entry['CitationInfo']['authors']:
-              entry['CitationInfo']['authors'][author] = 1
-            else:
-              entry['CitationInfo']['authors'][author] = entry['CitationInfo']['authors'][author] + 1
+            if author not in author_list:
+              author_list.append(author)
+              in_dac = test_dac(author, dac_authors)
+              #print'\t',
+              #print({author:in_dac})
+              entry['CitationInfo']['authors'].append({author:in_dac})
+          citing_authors = entry['CitationInfo']['authors']
+          entry['CitationInfo']['total_authors'] = len(citing_authors)
+          entry['CitationInfo']['non_dac_authors'] = len([x for x in citing_authors if x.values()[0]==False])
         except Exception:
           pass
         #print c_year, c_title
@@ -202,6 +249,7 @@ def main():
       all_stats.append(entry)
       
     json.dump(all_stats,outfile,indent=4,ensure_ascii=False)
+    
     return all_stats
 
 def analyse(stats):
@@ -209,10 +257,26 @@ def analyse(stats):
   jour_count = Counter()
   inst_count = Counter()
   years = [0]+range(2002, 2016)
+  
 
   stat = {'organizations':org_count, 'journals':jour_count, 'institutions':inst_count, 'yearly':{y:[] for y in years},'yearly_nonself':{y:[] for y in years}}
-  outfile = codecs.open('citationAnalysis.json','w',encoding='utf-8')
+  
+  def fil(year):
+    def _fil(x):
+      return x['Year'] == year
+    return _fil
 
+  paper_year_dict = {}
+  for year in range(2002,2016):
+    arr = filter(fil(year),stats)
+    arr = sorted(arr, key=lambda x:x['CitationInfo']['total'], reverse=True)
+    paper_year_dict[year] = arr[:50]
+
+  paper_year_author = {}
+  for year in range(2002,2016):
+    arr = filter(fil(year),stats)
+    arr = sorted(arr, key=lambda x:x['CitationInfo']['non_dac_authors'], reverse=True)
+    paper_year_author[year] = arr[:50]
 
   for entry in stats:
     info = entry['CitationInfo']
@@ -236,7 +300,6 @@ def analyse(stats):
       stat['yearly'][year].append((title, len(yearstat[year])))
       stat['yearly_nonself'][year].append((title, len(yearstat[year]) if year not in yearstat_self else len(yearstat[year])-len(yearstat_self[year]) ))
 
-
   org_count = [(x[0],x[1]) for x in dict(org_count).items()]
   jour_count = [(x[0],x[1]) for x in dict(jour_count).items()]
   inst_count = [(x[0],x[1]) for x in dict(inst_count).items()]
@@ -256,17 +319,93 @@ def analyse(stats):
   stat['organizations']=org_count 
   stat['journals']=jour_count
   stat['institutions']=inst_count
+  stat['yearly_rank'] = paper_year_dict
+  stat['yearly_author_rank'] = paper_year_author
 
 
-  json.dump(stat, outfile, indent=1, ensure_ascii=False, sort_keys=True)
+  return stat
+
+def output(stat):
+  with codecs.open('citationAnalysis.json','w',encoding='utf-8') as outfile:
+    outfile.write('{\n')
+    # institutions
+    outfile.write('\t\"institutions\":{\n')
+    for inst in stat['institutions'][:-1]:
+      outfile.write('\t\t\"{}\":{},\n'.format(inst[0].replace('\\"','"').replace('"','\\"'),inst[1]))
+    outfile.write('\t\t\"{}\":{}\n'.format(stat['institutions'][-1][0].replace('\\"','"').replace('"','\\"'),stat['institutions'][-1][1]))
+    outfile.write('\t},\n')
+
+    #outfile.write('\n')
+
+    # organizations
+    outfile.write('\t\"organizations\":{\n')
+    for org in stat['organizations'][:-1]:
+      outfile.write('\t\t\"{}\":{},\n'.format(org[0].replace('\\"','"').replace('"','\\"'),org[1]))
+    outfile.write('\t\t\"{}\":{}\n'.format(stat['organizations'][-1][0].replace('\\"','"').replace('"','\\"'),stat['organizations'][-1][1]))
+    outfile.write('\t},\n')
+
+    # journals
+    outfile.write('\t\"journals\":{\n')
+    for jour in stat['journals'][:-1]:
+      outfile.write('\t\t\"{}\":{},\n'.format(jour[0].replace('\\"','"').replace('"','\\"'),jour[1]))
+    outfile.write('\t\t\"{}\":{}\n'.format(stat['journals'][-1][0].replace('\\"','"').replace('"','\\"'),stat['journals'][-1][1]))
+    outfile.write('\t},\n')
+
+    # papers
+    outfile.write('\t\"yearly_cite\":{\n')
+    for i, year in enumerate(stat['yearly'].keys()):
+      outfile.write('\t\t{}:'.format(year))
+      outfile.write('{\n')
+      for paper in stat['yearly'][year][:-1]:
+        outfile.write('\t\t\t\"{}\":{},\n'.format(paper[0].replace('\\"','"').replace('"','\\"'),paper[1]))
+      outfile.write('\t\t\t\"{}\":{}\n'.format(stat['yearly'][year][-1][0].replace('\\"','"').replace('"','\\"'),stat['yearly'][year][-1][1]))
+      outfile.write('\t\t}')
+      if i != len(stat['yearly'].keys())-1:
+        outfile.write(',')
+      outfile.write('\n')
+    outfile.write('\t},\n')
+
+    # papers
+    paper_year_dict = stat['yearly_rank']
+    outfile.write('\t\"yearly_paper\":{\n')
+    for i, year in enumerate(paper_year_dict.keys()):
+      outfile.write('\t\t{}:'.format(year))
+      outfile.write('{\n')
+      for paper in paper_year_dict[year][:-1]:
+        outfile.write('\t\t\t\"{}\":{},\n'.format(paper['Title'].replace('\\"','"').replace('"','\\"'),paper['CitationInfo']['total']))
+      outfile.write('\t\t\t\"{}\":{}\n'.format(paper_year_dict[year][-1]['Title'].replace('\\"','"').replace('"','\\"'),paper_year_dict[year][-1]['CitationInfo']['total']))
+      outfile.write('\t\t}')
+      if i != len(paper_year_dict.keys())-1:
+        outfile.write(',')
+      outfile.write('\n')
+    outfile.write('\t},\n')
+
+    # non dac authors
+    paper_year_author = stat['yearly_author_rank']
+    outfile.write('\t\"yearly_non_dac_author\":{\n')
+    for i, year in enumerate(paper_year_author.keys()):
+      outfile.write('\t\t{}:'.format(year))
+      outfile.write('{\n')
+      for paper in paper_year_author[year][:-1]:
+        outfile.write('\t\t\t\"{}\":{},\n'.format(paper['Title'].replace('\\"','"').replace('"','\\"'),paper['CitationInfo']['non_dac_authors']))
+      outfile.write('\t\t\t\"{}\":{}\n'.format(paper_year_dict[year][-1]['Title'].replace('\\"','"').replace('"','\\"'),paper_year_dict[year][-1]['CitationInfo']['non_dac_authors']))
+      outfile.write('\t\t}')
+      if i != len(paper_year_author.keys())-1:
+        outfile.write(',')
+      outfile.write('\n')
+    outfile.write('\t},\n')
+
+
+    #json.dump(stat, outfile, indent=1, ensure_ascii=False, sort_keys=True)
 
   
 
 
 if __name__ == "__main__":
   #print is_same_person(sys.argv[1], sys.argv[2])
-  all_stats = main()
-  analyse(all_stats)
+  all_stats= main()
+  stat = analyse(all_stats)
+  output(stat)
 
   
 
