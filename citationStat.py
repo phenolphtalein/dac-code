@@ -268,13 +268,13 @@ def analyse(stats):
 
   paper_year_dict = {}
   for year in range(2002,2016):
-    arr = filter(fil(year),stats)
+    arr = filter(lambda x:x['CitationInfo']['total']>0,filter(fil(year),stats))
     arr = sorted(arr, key=lambda x:x['CitationInfo']['total'], reverse=True)
     paper_year_dict[year] = arr[:50]
 
   paper_year_author = {}
   for year in range(2002,2016):
-    arr = filter(fil(year),stats)
+    arr = filter(lambda x:x['CitationInfo']['non_dac_authors']>0,filter(fil(year),stats))
     arr = sorted(arr, key=lambda x:x['CitationInfo']['non_dac_authors'], reverse=True)
     paper_year_author[year] = arr[:50]
 
@@ -388,7 +388,7 @@ def output(stat):
       outfile.write('{\n')
       for paper in paper_year_author[year][:-1]:
         outfile.write('\t\t\t\"{}\":{},\n'.format(paper['Title'].replace('\\"','"').replace('"','\\"'),paper['CitationInfo']['non_dac_authors']))
-      outfile.write('\t\t\t\"{}\":{}\n'.format(paper_year_dict[year][-1]['Title'].replace('\\"','"').replace('"','\\"'),paper_year_dict[year][-1]['CitationInfo']['non_dac_authors']))
+      outfile.write('\t\t\t\"{}\":{}\n'.format(paper_year_author[year][-1]['Title'].replace('\\"','"').replace('"','\\"'),paper_year_author[year][-1]['CitationInfo']['non_dac_authors']))
       outfile.write('\t\t}')
       if i != len(paper_year_author.keys())-1:
         outfile.write(',')

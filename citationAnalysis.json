@@ -3077,7 +3077,7 @@
 			"Interactive Product Design Selection With an Implicit Value Function":8,
 			"Thermal Robustness and Mass Optimization of Heat Pipe Shape for Spacecraft Panel Using a Combination of Response Surface Methodology and Monte Carlo Simulation":8,
 			"Computer Implementation of an Improved Kutzbach-Grubler Mobility Criterion":8,
-			"Performance Optimization of Extrusion Blow Molded Parts Using Fuzzy Neural-Taguchi Method and Genetic Algorithm":10
+			"Decomposition-Based Assembly Synthesis Based on Structural Stiffness Considerations":6
 		},
 		2003:{
 			"Analysis of Support Vector Regression for Approximation of Complex Engineering Analyses":430,
@@ -3129,7 +3129,7 @@
 			"A Design Alternatives Assessment and Management Approach":9,
 			"Bayesian Approximation-Assisted Optimization Applied to Crashworthiness Design of a Pickup Truck":8,
 			"Designing a Dexterous Reconfigurable Packaging System for Flexible Automation":8,
-			"Forward Problem Singularities of Manipulators Which Become PS-2RS or 2PS-RS Structures When the Actuators Are Locked":15
+			"Generalized Random Tunneling Algorithm for Continuous Design Variables":8
 		},
 		2004:{
 			"On the Use of Kriging Models to Approximate Deterministic Computer Models":647,
@@ -3181,7 +3181,7 @@
 			"Geometric Design of Uniform Developable B-Spline Surfaces":4,
 			"Concurrent Parameter Design Based on Constraint Network":4,
 			"A Comparative Study of Constraint Programming Techniques Over Intervals in Preliminary Design":3,
-			"Covariance Modeling Method for Use in Compliant Assembly Tolerance Analysis":7
+			"A Conceptual Design Synthesis Framework for Micro-Electro-Mechanical Systems (MEMS)":3
 		},
 		2005:{
 			"A Methodology for Trading-Off Performance and Robustness Under Uncertainty":100,
@@ -3233,7 +3233,7 @@
 			"Development of a Robust Design Process Using a New Robustness Index":8,
 			"A Strategy for Simulation-Based Multiscale, Multi-Functional Products and Associated Design Processes":8,
 			"Computational Methods Applied to Modelica Simulation Models in a Web Based Framework":7,
-			"Integrating a Vision System With a Coordinate Measuring Machine to Automate the Datum Alignment Process":8
+			"Efficient Genetic Algoritm Based Robust Design Method for Compressor Fan Blades":7
 		},
 		2006:{
 			"Understanding the Effects of Model Uncertainty in Robust Design With Computer Experiments":120,
@@ -3285,7 +3285,7 @@
 			"Fast Layered Manufacturing Support Volume Computation on GPUs":5,
 			"A Multidisciplinary and Multiobjective System Analysis and Optimization Methodology for Embedding Integrated Systems Health Management (ISHM) Into NASA’s Complex Systems":5,
 			"A Graphical Modeling Environment for Configuring Modular Product Families and Platforms":5,
-			"A Survey of Various Encoding Schemes and Associated Placement Algorithms Applied to Packing and Layout Problems":0
+			"Exploiting Shape Similarity in Engineering Analysis":4
 		},
 		2007:{
 			"Visual Steering Commands for Trade Space Exploration: User-Guided Sampling With Example":110,
@@ -3337,7 +3337,7 @@
 			"OAM+: An Assembly Data Model for Legacy Systems Engineering":6,
 			"A Dual Environment for 3D Modeling With User-Defined Free Form Features":5,
 			"Robust Design Concept in Possibility Theory and Optimization for System With Both Random and Fuzzy Input Variables":5,
-			"Representing Historically Based Component-Function Relationships Through Design Templates":8
+			"A Process Model and Data Mining to Support Designing Families of Services":5
 		},
 		2008:{
 			"Topology Synthesis of Multi-Component Structural Assemblies in Continuum Domains":124,
@@ -3389,7 +3389,7 @@
 			"Uncertainty Analysis of Damage Evolution Computed Through Microstructure-Property Relations":4,
 			"Plug-In Hybrid Vehicle Simulation: How Battery Weight and Charging Patterns Impact Cost, Fuel Consumption, and CO2 Emissions":4,
 			"Model Validation and Error Modeling to Support Sequential Sampling":4,
-			"Euclidean Symmetry Detection From Scanned Meshes Based on a Combination of ICP and Region Growing Algorithms":4
+			"A Proposed Taxonomy for Physical Prototypes: Structure and Validation":4
 		},
 		2009:{
 			"Level Set Based Robust Shape and Topology Optimization Under Random Field Uncertainties":104,
@@ -3441,7 +3441,7 @@
 			"Port-Based Ontology Semantic Similarities for Module Concept Creation":5,
 			"Improving Multi-Objective Robust Optimization Under Interval Uncertainty Using Worst Possible Point Constraint Cuts":5,
 			"A Comparison of Metamodel-Assisted Pre-Screening Criteria for Multi-Objective Genetic Algorithms":5,
-			"A Filter-Based Sample Average SQP for Optimization Problems With Highly Nonlinear Probabilistic Constraints":7
+			"Metrics-Based Approach for VR Technology Evaluation in Styling Product Design":5
 		},
 		2010:{
 			"Trending Mining for Predictive Product Design":68,
@@ -3493,7 +3493,7 @@
 			"An Investigation of Sustainability, Preference, and Profitability in Design Optimization":4,
 			"An Efficient Tradeoff Approach for Topology Optimization With Manufacturing Constraints":4,
 			"Safety of Spur Gear Design Under Non-Ideal Conditions With Uncertainty":4,
-			"Ball Bearing Fatigue and Wear Life Optimization Using Elastohydrodynamic and Genetic Algorithm":1
+			"Tolerance Plugin Module in Integrated Design":4
 		},
 		2011:{
 			"Improving Identifiability in Model Calibration Using Multiple Responses":40,
@@ -3545,7 +3545,7 @@
 			"Sensitivity of Array-Like and Optimized Wind Farm Output to Key Factors and Choice of Wake Models":4,
 			"A Heat Transfer Model for the Conceptual Design of a Biomass Cookstove for Developing Countries":4,
 			"Principles of Mechanical Design for the Developing World: A Case Study Approach":4,
-			"Identification of Product Family Platforms Using Pattern Recognition":5
+			"An Importance Sampling Approach for Time-Dependent Reliability":3
 		},
 		2012:{
 			"Wind Farm Layout Optimization Considering Energy Generation and Noise Propagation":29,
@@ -3597,7 +3597,7 @@
 			"Pre-Life and End-of-Life Combined Profit Optimization With Predictive Product Lifecycle Design":2,
 			"A Bisociative Design Framework for Knowledge Discovery Across Seemingly Unrelated Product Domains":2,
 			"Designing Products for Optimal Collaborative Performance With Application to Engineering-Based Poverty Alleviation":1,
-			"Efficient Sampling Methods for Tradeoff Studies Under Uncertainty":0
+			"A Genetic Algorithm Approach for Technology Characterization":1
 		},
 		2013:{
 			"System of Systems Approach to Air Transportation Design Using Nested Problem Formulation and Direct Search Optimization":4,
@@ -3613,18 +3613,7 @@
 			"Advancing Design Through the Creation and Visualization of Virtual Population Representing U.S. Civilians":1,
 			"A System Uncertainty Propagation Approach With Model Uncertainty Quantification in Multidisciplinary Design":1,
 			"A Formal Model of Human Interactions for Service Ecosystem Design":1,
-			"Inverse Reliability Analysis for Approximated Second-Order Reliability Method Using Hessian Update":1,
-			"Concurrent Surrogate Model Selection (COSMOS) Based on Predictive Estimation of Model Fidelity":0,
-			"Inverse Design of Manufacturing Process Chains":0,
-			"Evolution of Meso-Structures for Non-Pneumatic Tire Development: A Case Study":0,
-			"Solving Structure for Network-Decomposed Problems Optimized With Augmented Lagrangian Coordination":0,
-			"Exploration of the Design Space in Continuous Casting Tundish":0,
-			"Redundancy Allocation for Reliability Design of Engineering Systems With Failure Interactions":0,
-			"Improve System Reliability and Robustness Using Axiomatic Design and Fault Tree Analysis":0,
-			"Projection-Based Topology Optimization Using Discrete Object Sets":0,
-			"Challenges in Designing and Manufacturing Fully Optimized Functional Gradient Material Objects":0,
-			"Dual Residual in Augmented Lagrangian Coordination for Decomposition-Based Optimization":0,
-			"An Efficient Reliability Analysis Method for Structures With Epistemic Uncertainty Using Evidence Theory":2
+			"Inverse Reliability Analysis for Approximated Second-Order Reliability Method Using Hessian Update":1
 		},
 		2014:{
 			"Ramp Forecasting Performance From Improved Short-Term Wind Power Forecasting":4,
@@ -3635,13 +3624,7 @@
 			"Large-Scale Topology Optimization Using Parameterized Boolean Networks":1,
 			"Improving Preference Prediction Accuracy With Feature Learning":1,
 			"Visualization Tool for Interpreting User Needs From User-Generated Content via Text Mining and Classification":1,
-			"Should Optimal Designers Worry About Consideration?":1,
-			"Improving Irrigation in Remote Areas: Multi-Objective Optimization of a Treadle Pump":0,
-			"Toward a Market-Based Lean Startup Product Design Method for the Developing World":0,
-			"Facilitating Design-by-Analogy: Development of a Complete Functional Vocabulary and Functional Vector Approach to Analogical Search":0,
-			"Multi-Level Design Optimization of Reverse Osmosis Water Desalination Powered via Photovoltaic Panels With Battery Storage":0,
-			"Predictive, Data-Driven Product Family Design":0,
-			"Image Matching Assessment of Attainable Topology via Kriging-Interpolated Level-Sets":0
+			"Should Optimal Designers Worry About Consideration?":1
 		},
 		2015:{
 			"Uncertainty Quantification in Time-Dependent Reliability Analysis":6,
@@ -3650,16 +3633,6 @@
 			"Function Extrapolation at One Inaccessible Point Using Converging Lines":2,
 			"Modeling Consumer Decisions on Returning End-of-Use Products Considering Design Features and Consumer Interactions: An Agent Based Simulation Approach":2,
 			"Solution Space Exploration in Model-Based Realization of Engineered Systems":1,
-			"Design Sensitivity Method for Sampling-Based RBDO With Fixed COV":1,
-			"On Using Adaptive Surrogate Modeling in Design for Efficient Fluid Power":0,
-			"A Prediction Modeling Framework: Toward Integration of Noisy Manufacturing Data and Product Design":0,
-			"Topology Optimization of Cellular Materials With Maximized Energy Absorption":0,
-			"Variable-Fidelity Optimization With In-Situ Surrogate Model Refinement":0,
-			"Reliability-Based Design Optimization in X-Space Using Ensemble of Gaussian Reliability Analyses (EoGRA)":0,
-			"Autonomous Microgrid Design Using Classifier-Guided Sampling":0,
-			"Solar Power Ramp Events Detection Using an Optimized Swinging Door Algorithm":0,
-			"Introduction of a Tradeoff Index for Efficient Trade Space Exploration":0,
-			"Predictive Modeling of Product Returns for Remanufacturing":0,
 			"Design Sensitivity Method for Sampling-Based RBDO With Fixed COV":1
 		}
 	},
