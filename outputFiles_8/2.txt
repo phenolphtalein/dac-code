@@ -1,0 +1,48 @@
+case study	141
+comparative study	50
+data mining	46
+trade space exploration	43
+radial basis function	42
+concept generation	36
+sheet metal	33
+space exploration	33
+Pareto frontiers	31
+mass customization	30
+concept selection	27
+differential evolution	24
+Consumer Preference	23
+virtual environments	23
+virtual reality	22
+Effectiveness of Using Graveyard Data When Generating Design	21
+Automated Concept Generation	21
+Exploring Customization Option	20
+large scale	20
+Assessment and Selection During the Early Stages of Redesign	20
+trend mining	18
+Trade Studies	18
+approach to automated	17
+based approach	14
+customer preference	14
+neural network	14
+Early Stages	12
+function based approach	12
+design space	10
+Design Preference Elicitation	9
+metamodeling techniques	8
+metal parts	6
+automated approach	3
+space frame	3
+Preferred Designs	2
+based on an interactive	2
+trade space	2
+Data When Generating	2
+Design Preference	2
+Based On Function	2
+metamodeling approach	1
+basis function	1
+function based	1
+experimental design	1
+radial basis	1
+Data Sets	1
+Feasibility Assessment	1
+design using experimental	1

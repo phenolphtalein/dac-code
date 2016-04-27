@@ -1,0 +1,54 @@
+surrogate models	219
+choice modeling	68
+Model Validation	64
+Kriging model	55
+functional modeling	40
+hybrid electric vehicles	34
+electric vehicles	29
+multiple surrogates	26
+Technology Characterization	24
+surrogate model updating	23
+sparse grid	22
+wave energy	21
+Energy Harvesting	21
+Probabilistic Graphical Modeling	21
+model updating	21
+energy generation	19
+ensembles of surrogates	19
+prediction models	19
+model discrepancy	19
+Cellular Materials	18
+modeling and simulation	17
+CAD models	17
+Energy Consumption	17
+heat transfer	16
+adaptive hybrid	16
+Computer Model	14
+simulation models	14
+model predictive	14
+application to vehicle	13
+mathematical model	11
+demand models	9
+hybrid electric	6
+modelling using a function	6
+computer simulations	6
+Kriging Surrogate	5
+vehicle crashworthiness	5
+Discrete Choice	4
+compliant mechanisms	4
+model and Kriging	4
+Model and Surrogate	3
+Dynamic Systems	3
+function based	3
+approach of the performance measure	3
+Based On Function	3
+application to vehicle crashworthiness	2
+based approach	2
+Hybrid and adaptive	2
+model for choice	2
+function based approach	1
+modeling via kriging surrogates	1
+model with mathematical	1
+Graphical Modeling	1
+Performance Measure Approach	1
+Approach for Measuring	1

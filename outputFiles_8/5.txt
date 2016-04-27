@@ -1,0 +1,43 @@
+genetic algorithm	92
+compliant mechanisms	80
+computer experiments	72
+industrial robots	38
+Latin hypercube designs	34
+Computer Aided	31
+Design Synthesis	30
+Computational Design Synthesis	27
+Adaptive Design of Experiments	25
+tests based on an interactive genetic algorithm	24
+search algorithm	23
+parallel manipulators	23
+local domains	22
+computer simulations	22
+evolutionary computation	21
+Point Searches	18
+Performance Analysis and Technical Feasibility Assessment	18
+usage scenario	17
+Latin hypercube	14
+evolutionary algorithms	12
+CAD models	10
+computationally expensive	8
+Computer Model	8
+Optimization of Industrial Robots	7
+tolerance analysis	7
+Mars Rover	7
+assembly synthesis	6
+modeling and simulation	3
+Design of Experiments	2
+interactive genetic algorithm	2
+based on an interactive	2
+shape optimization	2
+design optimization	2
+simulation models	2
+Hybrid and adaptive	1
+design of experiments and adaptive	1
+optimization of computationally expensive	1
+synthesis of assembly	1
+Discrete Choice	1
+optimization algorithm	1
+Model Validation	1
+adaptive hybrid	1
+experiment design	1

@@ -1,0 +1,66 @@
+Finite Element	86
+analytical target cascading	53
+Accepted Manuscript Not Copyedited	47
+response surface	43
+Review of Recent Literature	40
+neural network	40
+sequential sampling	39
+derived from the engineering literature	36
+response surface method	36
+kriging metamodel	36
+probabilistic analytical target cascading	35
+Literature Review	35
+saddlepoint approximation	34
+Recent Advancements	31
+Sequential Quadratic Programming	26
+adaptive sampling	25
+suitability of econometric demand models	24
+Bayesian Network	24
+targeted initial populations	24
+polynomial chaos	24
+sampling method	22
+user populations	22
+Analytical target cascading framework	22
+nested extreme response surface approach	21
+finite element analysis	20
+probabilistic constraints	20
+Sequential linear programming	20
+importance sampling	20
+Review of metamodeling techniques	18
+Bayesian approach	15
+sampling approach	15
+Review of Recent	13
+literature on engineering	13
+sequential approximate	11
+Kriging model	10
+stochastic response surface	9
+function based approach	8
+Review of literature	8
+sampling strategy	7
+metamodeling techniques	7
+metamodeling approach	6
+functional modeling	6
+based approach	5
+linear programming	5
+Sequential linear	5
+Element Method	4
+target cascading	4
+initial populations	4
+linearization and sequential	4
+analytical target	3
+function based	3
+response surface approach	3
+Method for Sampling	3
+approach using Bayesian	2
+analysis and finite element	2
+Based On Function	2
+constraint programming	2
+approximation for sequential	1
+demand models	1
+Approaches to Metamodeling	1
+Element and Finite	1
+method for surface	1
+Quadratic Programming	1
+approach based	1
+Chaos polynomial	1
+Sampling Using Adaptive	1
